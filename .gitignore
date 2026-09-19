@@ -1,0 +1,20 @@
+# API Keys — NEVER commit this
+.env
+
+# FAISS index (large binary, rebuild locally with vectorstore.py)
+faiss_index/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# macOS
+.DS_Store
+
+# Virtual envs
+venv/
+.venv/
+env/
