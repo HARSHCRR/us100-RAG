@@ -1,17 +1,12 @@
 import os
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain.chains import RetrievalQA
-from langchain.prompts import PromptTemplate
-from langchain.schema import BaseRetriever
-from langchain_core.documents import Document
-from typing import List
-from pydantic import Field
+from langchain_core.prompts import ChatPromptTemplate
 from vectorstore import get_or_build_index
 
 load_dotenv()
 
-PROMPT_TEMPLATE = """You are a US100/NQ Macro Intelligence Analyst.
+SYSTEM_PROMPT = """You are a US100/NQ Macro Intelligence Analyst.
 Answer the user's question based ONLY on the retrieved historical NQ trading data below.
 If the data doesn't contain enough information, say "Not enough data in my knowledge base."
 
@@ -23,63 +18,58 @@ DATASET FACTS (always accurate — use these for any date/range questions):
 If asked about the "most recent", "last", or "latest" data point, the answer is 2026-08-14.
 
 Retrieved Context (sorted by date, most recent first):
-{context}
+{context}"""
 
-Question: {question}
+PROMPT = ChatPromptTemplate.from_messages([
+    ("system", SYSTEM_PROMPT),
+    ("human", "{question}")
+])
 
-Answer (be specific, cite dates and price reactions):"""
+
+def _retrieve_sorted(query: str, vectorstore, k: int = 100):
+    """Fetch k docs via FAISS, re-sort by date descending, return top 5."""
+    temporal = ["last", "latest", "recent", "newest", "current", "most recent"]
+    k = 100 if any(w in query.lower() for w in temporal) else 5
+    docs = vectorstore.similarity_search(query, k=k)
+    docs.sort(key=lambda d: d.metadata.get("date", ""), reverse=True)
+    return docs[:5]
 
 
-class DateSortedRetriever(BaseRetriever):
-    """Retrieves docs by semantic similarity, then re-sorts by date (most recent first)."""
-    base_retriever: object = Field(description="Base FAISS retriever")
-
-    def _get_relevant_documents(self, query: str) -> List[Document]:
-        docs = self.base_retriever.get_relevant_documents(query)
-        # Sort by date descending → most recent first
-        docs.sort(key=lambda d: d.metadata.get("date", ""), reverse=True)
-        return docs[:5]
-
-    async def _aget_relevant_documents(self, query: str) -> List[Document]:
-        return self._get_relevant_documents(query)
+def _format_docs(docs) -> str:
+    return "\n\n---\n\n".join(doc.page_content for doc in docs)
 
 
 def build_rag_chain():
+    """Returns a callable: query (str) → {result, source_documents}"""
     vectorstore = get_or_build_index()
-    base_retriever = vectorstore.as_retriever(search_kwargs={"k": 100})
-    retriever = DateSortedRetriever(base_retriever=base_retriever)
 
     llm = ChatGoogleGenerativeAI(
         model="gemini-3.6-flash",
         google_api_key=os.getenv("GOOGLE_API_KEY"),
-        temperature=0.2
+        temperature=0.2,
     )
 
-    prompt = PromptTemplate(
-        template=PROMPT_TEMPLATE,
-        input_variables=["context", "question"]
-    )
+    def run(inputs: dict) -> dict:
+        query = inputs.get("query", "")
+        docs = _retrieve_sorted(query, vectorstore)
+        context = _format_docs(docs)
+        prompt_value = PROMPT.invoke({"context": context, "question": query})
+        response = llm.invoke(prompt_value)
+        return {
+            "result": response.content,
+            "source_documents": docs,
+        }
 
-    chain = RetrievalQA.from_chain_type(
-        llm=llm,
-        retriever=retriever,
-        chain_type="stuff",
-        chain_type_kwargs={"prompt": prompt},
-        return_source_documents=True
-    )
-    return chain
+    return run
 
 
 if __name__ == "__main__":
-    print("Building RAG chain...")
     chain = build_rag_chain()
-
-    query = "what's the last cpi data?"
+    query = "How did NQ react to hot CPI prints historically?"
     print(f"\nQuery: {query}\n")
-
-    result = chain.invoke({"query": query})
+    result = chain({"query": query})
     print("=== ANSWER ===")
     print(result["result"])
-    print("\n=== SOURCE DOCUMENTS (sorted by date, most recent first) ===")
+    print("\n=== SOURCE DOCUMENTS ===")
     for doc in result["source_documents"]:
         print(f"  - {doc.metadata['date']} | {doc.metadata['overall_bias']} | CPI: {doc.metadata['has_cpi_event']}")
