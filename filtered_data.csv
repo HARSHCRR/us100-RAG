@@ -1,0 +1,1441 @@
+Date,Time,Cur.,Event,Imp.,Actual,Forecast,Previous
+"Thursday, September 15, 2016",18:00,US,Initial Jobless Claims,,260K,265K,259K
+"Friday, September 16, 2016",18:00,US,Core CPI (MoM) (Aug),,0.3%,0.2%,0.1%
+"Friday, September 16, 2016",18:00,US,CPI (MoM) (Aug),,0.2%,0.1%,0.0%
+"Friday, September 16, 2016",18:00,US,CPI (YoY) (Aug),,1.1%,1.0%,0.8%
+"Wednesday, September 21, 2016",23:30,US,Fed Interest Rate Decision,,0.50%,0.50%,0.50%
+"Thursday, September 22, 2016",18:00,US,Initial Jobless Claims,,252K,262K,260K
+"Thursday, September 29, 2016",18:00,US,Initial Jobless Claims,,254K,260K,251K
+"Friday, September 30, 2016",18:00,US,Core PCE Price Index (YoY) (Aug),,1.7%,1.7%,1.6%
+"Friday, September 30, 2016",18:00,US,Core PCE Price Index (MoM) (Aug),,0.2%,0.2%,0.1%
+"Thursday, October 6, 2016",18:00,US,Initial Jobless Claims,,249K,257K,254K
+"Friday, October 7, 2016",18:00,US,Nonfarm Payrolls (Sep),,156K,175K,167K
+"Friday, October 7, 2016",18:00,US,Unemployment Rate (Sep),,5.0%,4.9%,4.9%
+"Thursday, October 13, 2016",18:00,US,Initial Jobless Claims,,246K,254K,246K
+"Tuesday, October 18, 2016",18:00,US,Core CPI (MoM) (Sep),,0.1%,0.2%,0.3%
+"Tuesday, October 18, 2016",18:00,US,CPI (MoM) (Sep),,0.3%,0.3%,0.2%
+"Tuesday, October 18, 2016",18:00,US,CPI (YoY) (Sep),,1.5%,1.5%,1.1%
+"Thursday, October 20, 2016",18:00,US,Initial Jobless Claims,,260K,250K,247K
+"Thursday, October 27, 2016",18:00,US,Initial Jobless Claims,,258K,255K,261K
+"Monday, October 31, 2016",18:00,US,Core PCE Price Index (YoY) (Sep),,1.7%,1.7%,1.7%
+"Monday, October 31, 2016",18:00,US,Core PCE Price Index (MoM) (Sep),,0.1%,0.1%,0.2%
+"Wednesday, November 2, 2016",23:30,US,Fed Interest Rate Decision,,0.50%,0.50%,0.50%
+"Thursday, November 3, 2016",18:00,US,Initial Jobless Claims,,265K,258K,258K
+"Friday, November 4, 2016",18:00,US,Nonfarm Payrolls (Oct),,161K,175K,191K
+"Friday, November 4, 2016",18:00,US,Unemployment Rate (Oct),,4.9%,4.9%,5.0%
+"Thursday, November 10, 2016",19:00,US,Initial Jobless Claims,,254K,260K,265K
+"Thursday, November 17, 2016",19:00,US,Core CPI (MoM) (Oct),,0.1%,0.2%,0.1%
+"Thursday, November 17, 2016",19:00,US,CPI (MoM) (Oct),,0.4%,0.4%,0.3%
+"Thursday, November 17, 2016",19:00,US,CPI (YoY) (Oct),,1.6%,1.6%,1.5%
+"Thursday, November 17, 2016",19:00,US,Initial Jobless Claims,,235K,257K,254K
+"Wednesday, November 23, 2016",19:00,US,Initial Jobless Claims,,251K,250K,233K
+"Wednesday, November 30, 2016",19:00,US,Core PCE Price Index (YoY) (Oct),,1.7%,,1.7%
+"Wednesday, November 30, 2016",19:00,US,Core PCE Price Index (MoM) (Oct),,0.1%,0.1%,0.1%
+"Thursday, December 1, 2016",19:00,US,Initial Jobless Claims,,268K,253K,251K
+"Friday, December 2, 2016",19:00,US,Nonfarm Payrolls (Nov),,178K,175K,142K
+"Friday, December 2, 2016",19:00,US,Unemployment Rate (Nov),,4.6%,4.9%,4.9%
+"Thursday, December 8, 2016",19:00,US,Initial Jobless Claims,,258K,258K,268K
+"Thursday, December 15, 2016",00:30,US,Fed Interest Rate Decision,,0.75%,0.75%,0.50%
+"Thursday, December 15, 2016",19:00,US,Core CPI (MoM) (Nov),,0.2%,0.2%,0.1%
+"Thursday, December 15, 2016",19:00,US,CPI (MoM) (Nov),,0.2%,0.2%,0.4%
+"Thursday, December 15, 2016",19:00,US,CPI (YoY) (Nov),,1.7%,1.7%,1.6%
+"Thursday, December 15, 2016",19:00,US,Initial Jobless Claims,,254K,255K,258K
+"Thursday, December 22, 2016",19:00,US,Initial Jobless Claims,,275K,256K,254K
+"Thursday, December 22, 2016",20:30,US,Core PCE Price Index (YoY) (Nov),,1.6%,,1.8%
+"Thursday, December 22, 2016",20:30,US,Core PCE Price Index (MoM) (Nov),,0.0%,0.1%,0.1%
+"Thursday, December 29, 2016",19:00,US,Initial Jobless Claims,,265K,264K,275K
+"Thursday, January 5, 2017",19:00,US,Initial Jobless Claims,,235K,260K,263K
+"Friday, January 6, 2017",19:00,US,Nonfarm Payrolls (Dec),,156K,178K,204K
+"Friday, January 6, 2017",19:00,US,Unemployment Rate (Dec),,4.7%,4.7%,4.6%
+"Thursday, January 12, 2017",19:00,US,Initial Jobless Claims,,247K,255K,237K
+"Wednesday, January 18, 2017",19:00,US,Core CPI (MoM) (Dec),,0.2%,0.2%,0.2%
+"Wednesday, January 18, 2017",19:00,US,CPI (MoM) (Dec),,0.3%,0.3%,0.2%
+"Wednesday, January 18, 2017",19:00,US,CPI (YoY) (Dec),,2.1%,2.1%,1.7%
+"Thursday, January 19, 2017",19:00,US,Initial Jobless Claims,,234K,254K,249K
+"Thursday, January 26, 2017",19:00,US,Initial Jobless Claims,,259K,247K,237K
+"Monday, January 30, 2017",19:00,US,Core PCE Price Index (YoY) (Dec),,1.7%,1.7%,1.7%
+"Monday, January 30, 2017",19:00,US,Core PCE Price Index (MoM) (Dec),,0.1%,0.1%,0.0%
+"Thursday, February 2, 2017",00:30,US,Fed Interest Rate Decision,,0.75%,0.75%,0.75%
+"Thursday, February 2, 2017",19:00,US,Initial Jobless Claims,,246K,250K,260K
+"Friday, February 3, 2017",19:00,US,Nonfarm Payrolls (Jan),,227K,175K,157K
+"Friday, February 3, 2017",19:00,US,Unemployment Rate (Jan),,4.8%,4.7%,4.7%
+"Thursday, February 9, 2017",19:00,US,Initial Jobless Claims,,234K,250K,246K
+"Wednesday, February 15, 2017",19:00,US,Core CPI (MoM) (Jan),,0.3%,0.2%,0.2%
+"Wednesday, February 15, 2017",19:00,US,CPI (MoM) (Jan),,0.6%,0.3%,0.3%
+"Wednesday, February 15, 2017",19:00,US,CPI (YoY) (Jan),,2.5%,2.4%,2.1%
+"Thursday, February 16, 2017",19:00,US,Initial Jobless Claims,,239K,245K,234K
+"Thursday, February 23, 2017",19:00,US,Initial Jobless Claims,,244K,241K,238K
+"Wednesday, March 1, 2017",19:00,US,Core PCE Price Index (YoY) (Jan),,1.7%,1.8%,1.7%
+"Wednesday, March 1, 2017",19:00,US,Core PCE Price Index (MoM) (Jan),,0.3%,0.2%,0.1%
+"Thursday, March 2, 2017",19:00,US,Initial Jobless Claims,,223K,243K,242K
+"Thursday, March 9, 2017",19:00,US,Initial Jobless Claims,,243K,235K,223K
+"Friday, March 10, 2017",19:00,US,Nonfarm Payrolls (Feb),,235K,200K,238K
+"Friday, March 10, 2017",19:00,US,Unemployment Rate (Feb),,4.7%,4.7%,4.8%
+"Wednesday, March 15, 2017",18:00,US,Core CPI (MoM) (Feb),,0.2%,0.2%,0.3%
+"Wednesday, March 15, 2017",18:00,US,CPI (MoM) (Feb),,0.1%,0.1%,0.6%
+"Wednesday, March 15, 2017",18:00,US,CPI (YoY) (Feb),,2.7%,2.7%,2.5%
+"Wednesday, March 15, 2017",23:30,US,Fed Interest Rate Decision,,1.00%,1.00%,0.75%
+"Thursday, March 16, 2017",18:00,US,Initial Jobless Claims,,241K,240K,243K
+"Thursday, March 23, 2017",18:00,US,Initial Jobless Claims,,258K,240K,243K
+"Thursday, March 30, 2017",18:00,US,Initial Jobless Claims,,258K,248K,261K
+"Friday, March 31, 2017",18:00,US,Core PCE Price Index (YoY) (Feb),,1.8%,1.7%,1.8%
+"Friday, March 31, 2017",18:00,US,Core PCE Price Index (MoM) (Feb),,0.2%,0.2%,0.3%
+"Thursday, April 6, 2017",18:00,US,Initial Jobless Claims,,234K,250K,259K
+"Friday, April 7, 2017",18:00,US,Nonfarm Payrolls (Mar),,98K,180K,219K
+"Friday, April 7, 2017",18:00,US,Unemployment Rate (Mar),,4.5%,4.7%,4.7%
+"Thursday, April 13, 2017",18:00,US,Initial Jobless Claims,,234K,245K,235K
+"Friday, April 14, 2017",18:00,US,Core CPI (MoM) (Mar),,-0.1%,0.2%,0.2%
+"Friday, April 14, 2017",18:00,US,CPI (MoM) (Mar),,-0.3%,0.1%,0.1%
+"Friday, April 14, 2017",18:00,US,CPI (YoY) (Mar),,2.4%,2.6%,2.7%
+"Thursday, April 20, 2017",18:00,US,Initial Jobless Claims,,244K,242K,234K
+"Thursday, April 27, 2017",18:00,US,Initial Jobless Claims,,257K,245K,243K
+"Monday, May 1, 2017",18:00,US,Core PCE Price Index (YoY) (Mar),,1.6%,,1.8%
+"Monday, May 1, 2017",18:00,US,Core PCE Price Index (MoM) (Mar),,-0.1%,-0.1%,0.2%
+"Wednesday, May 3, 2017",23:30,US,Fed Interest Rate Decision,,1.00%,1.00%,1.00%
+"Thursday, May 4, 2017",18:00,US,Initial Jobless Claims,,238K,247K,257K
+"Friday, May 5, 2017",18:00,US,Nonfarm Payrolls (Apr),,211K,185K,79K
+"Friday, May 5, 2017",18:00,US,Unemployment Rate (Apr),,4.4%,4.6%,4.5%
+"Thursday, May 11, 2017",18:00,US,Initial Jobless Claims,,236K,245K,238K
+"Friday, May 12, 2017",18:00,US,Core CPI (MoM) (Apr),,0.1%,0.2%,-0.1%
+"Friday, May 12, 2017",18:00,US,CPI (MoM) (Apr),,0.2%,0.2%,-0.3%
+"Friday, May 12, 2017",18:00,US,CPI (YoY) (Apr),,2.2%,2.3%,2.4%
+"Thursday, May 18, 2017",18:00,US,Initial Jobless Claims,,232K,240K,236K
+"Thursday, May 25, 2017",18:00,US,Initial Jobless Claims,,234K,238K,233K
+"Tuesday, May 30, 2017",18:00,US,Core PCE Price Index (YoY) (Apr),,1.5%,1.5%,1.6%
+"Tuesday, May 30, 2017",18:00,US,Core PCE Price Index (MoM) (Apr),,0.2%,0.1%,-0.1%
+"Thursday, June 1, 2017",18:00,US,Initial Jobless Claims,,248K,239K,235K
+"Friday, June 2, 2017",18:00,US,Nonfarm Payrolls (May),,138K,185K,174K
+"Friday, June 2, 2017",18:00,US,Unemployment Rate (May),,4.3%,4.4%,4.4%
+"Thursday, June 8, 2017",18:00,US,Initial Jobless Claims,,245K,240K,255K
+"Wednesday, June 14, 2017",18:00,US,Core CPI (MoM) (May),,0.1%,0.2%,0.1%
+"Wednesday, June 14, 2017",18:00,US,CPI (MoM) (May),,-0.1%,0.1%,0.2%
+"Wednesday, June 14, 2017",18:00,US,CPI (YoY) (May),,1.9%,2.0%,2.2%
+"Wednesday, June 14, 2017",23:30,US,Fed Interest Rate Decision,,1.25%,1.25%,1.00%
+"Thursday, June 15, 2017",18:00,US,Initial Jobless Claims,,237K,242K,245K
+"Thursday, June 22, 2017",18:00,US,Initial Jobless Claims,,241K,240K,238K
+"Thursday, June 29, 2017",18:00,US,Initial Jobless Claims,,244K,240K,242K
+"Friday, June 30, 2017",18:00,US,Core PCE Price Index (YoY) (May),,1.4%,1.4%,1.5%
+"Friday, June 30, 2017",18:00,US,Core PCE Price Index (MoM) (May),,0.1%,0.1%,0.1%
+"Thursday, July 6, 2017",18:00,US,Initial Jobless Claims,,248K,243K,244K
+"Friday, July 7, 2017",18:00,US,Nonfarm Payrolls (Jun),,222K,179K,152K
+"Friday, July 7, 2017",18:00,US,Unemployment Rate (Jun),,4.4%,4.3%,4.3%
+"Thursday, July 13, 2017",18:00,US,Initial Jobless Claims,,247K,245K,250K
+"Friday, July 14, 2017",18:00,US,Core CPI (MoM) (Jun),,0.1%,0.2%,0.1%
+"Friday, July 14, 2017",18:00,US,CPI (MoM) (Jun),,0.0%,0.1%,-0.1%
+"Friday, July 14, 2017",18:00,US,CPI (YoY) (Jun),,1.6%,1.7%,1.9%
+"Thursday, July 20, 2017",18:00,US,Initial Jobless Claims,,233K,245K,248K
+"Wednesday, July 26, 2017",23:30,US,Fed Interest Rate Decision,,1.25%,1.25%,1.25%
+"Thursday, July 27, 2017",18:00,US,Initial Jobless Claims,,244K,241K,234K
+"Tuesday, August 1, 2017",18:00,US,Core PCE Price Index (YoY) (Jun),,1.5%,1.3%,1.5%
+"Tuesday, August 1, 2017",18:00,US,Core PCE Price Index (MoM) (Jun),,0.1%,0.1%,0.1%
+"Thursday, August 3, 2017",18:00,US,Initial Jobless Claims,,240K,242K,245K
+"Friday, August 4, 2017",18:00,US,Nonfarm Payrolls (Jul),,209K,183K,231K
+"Friday, August 4, 2017",18:00,US,Unemployment Rate (Jul),,4.3%,4.3%,4.4%
+"Thursday, August 10, 2017",18:00,US,Initial Jobless Claims,,244K,240K,241K
+"Friday, August 11, 2017",18:00,US,Core CPI (MoM) (Jul),,0.1%,0.2%,0.1%
+"Friday, August 11, 2017",18:00,US,CPI (MoM) (Jul),,0.1%,0.2%,0.0%
+"Friday, August 11, 2017",18:00,US,CPI (YoY) (Jul),,1.7%,1.8%,1.6%
+"Thursday, August 17, 2017",18:00,US,Initial Jobless Claims,,232K,240K,244K
+"Thursday, August 24, 2017",18:00,US,Initial Jobless Claims,,234K,238K,232K
+"Thursday, August 31, 2017",18:00,US,Core PCE Price Index (YoY) (Jul),,1.4%,1.4%,1.5%
+"Thursday, August 31, 2017",18:00,US,Core PCE Price Index (MoM) (Jul),,0.1%,0.1%,0.1%
+"Thursday, August 31, 2017",18:00,US,Initial Jobless Claims,,236K,237K,235K
+"Friday, September 1, 2017",18:00,US,Unemployment Rate (Aug),,4.4%,4.3%,4.3%
+"Friday, September 1, 2017",18:00,US,Nonfarm Payrolls (Aug),,156K,180K,189K
+"Thursday, September 7, 2017",18:00,US,Initial Jobless Claims,,298K,241K,236K
+"Thursday, September 14, 2017",18:00,US,Core CPI (MoM) (Aug),,0.2%,0.2%,0.1%
+"Thursday, September 14, 2017",18:00,US,CPI (MoM) (Aug),,0.4%,0.3%,0.1%
+"Thursday, September 14, 2017",18:00,US,CPI (YoY) (Aug),,1.9%,1.8%,1.7%
+"Thursday, September 14, 2017",18:00,US,Initial Jobless Claims,,284K,300K,298K
+"Wednesday, September 20, 2017",23:30,US,Fed Interest Rate Decision,,1.25%,1.25%,1.25%
+"Thursday, September 21, 2017",18:00,US,Initial Jobless Claims,,259K,300K,282K
+"Thursday, September 28, 2017",18:00,US,Initial Jobless Claims,,272K,270K,260K
+"Friday, September 29, 2017",18:00,US,Core PCE Price Index (MoM) (Aug),,0.1%,0.2%,0.1%
+"Friday, September 29, 2017",18:00,US,Core PCE Price Index (YoY) (Aug),,1.3%,1.4%,1.4%
+"Thursday, October 5, 2017",18:00,US,Initial Jobless Claims,,260K,265K,272K
+"Friday, October 6, 2017",18:00,US,Nonfarm Payrolls (Sep),,-33K,90K,169K
+"Friday, October 6, 2017",18:00,US,Unemployment Rate (Sep),,4.2%,4.4%,4.4%
+"Thursday, October 12, 2017",18:00,US,Initial Jobless Claims,,243K,251K,258K
+"Friday, October 13, 2017",18:00,US,Core CPI (MoM) (Sep),,0.1%,0.2%,0.2%
+"Friday, October 13, 2017",18:00,US,CPI (MoM) (Sep),,0.5%,0.6%,0.4%
+"Friday, October 13, 2017",18:00,US,CPI (YoY) (Sep),,2.2%,2.3%,1.9%
+"Thursday, October 19, 2017",18:00,US,Initial Jobless Claims,,222K,240K,244K
+"Thursday, October 26, 2017",18:00,US,Initial Jobless Claims,,233K,235K,223K
+"Monday, October 30, 2017",18:00,US,Core PCE Price Index (MoM) (Sep),,0.1%,0.1%,0.1%
+"Monday, October 30, 2017",18:00,US,Core PCE Price Index (YoY) (Sep),,1.3%,1.3%,1.3%
+"Wednesday, November 1, 2017",23:30,US,Fed Interest Rate Decision,,1.25%,1.25%,1.25%
+"Thursday, November 2, 2017",18:00,US,Initial Jobless Claims,,229K,235K,234K
+"Friday, November 3, 2017",18:00,US,Nonfarm Payrolls (Oct),,261K,310K,18K
+"Friday, November 3, 2017",18:00,US,Unemployment Rate (Oct),,4.1%,4.2%,4.2%
+"Thursday, November 9, 2017",19:00,US,Initial Jobless Claims,,239K,231K,229K
+"Wednesday, November 15, 2017",19:00,US,Core CPI (MoM) (Oct),,0.2%,0.2%,0.1%
+"Wednesday, November 15, 2017",19:00,US,CPI (MoM) (Oct),,0.1%,0.1%,0.5%
+"Wednesday, November 15, 2017",19:00,US,CPI (YoY) (Oct),,2.0%,2.0%,2.2%
+"Thursday, November 16, 2017",19:00,US,Initial Jobless Claims,,249K,235K,239K
+"Wednesday, November 22, 2017",19:00,US,Initial Jobless Claims,,239K,240K,252K
+"Thursday, November 30, 2017",19:00,US,Core PCE Price Index (MoM) (Oct),,0.2%,0.2%,0.2%
+"Thursday, November 30, 2017",19:00,US,Core PCE Price Index (YoY) (Oct),,1.4%,1.4%,1.4%
+"Thursday, November 30, 2017",19:00,US,Initial Jobless Claims,,238K,240K,240K
+"Thursday, December 7, 2017",19:00,US,Initial Jobless Claims,,236K,240K,238K
+"Friday, December 8, 2017",19:00,US,Nonfarm Payrolls (Nov),,228K,200K,244K
+"Friday, December 8, 2017",19:00,US,Unemployment Rate (Nov),,4.1%,4.1%,4.1%
+"Wednesday, December 13, 2017",19:00,US,CPI (MoM) (Nov),,0.4%,0.4%,0.1%
+"Wednesday, December 13, 2017",19:00,US,Core CPI (MoM) (Nov),,0.1%,0.2%,0.2%
+"Wednesday, December 13, 2017",19:00,US,CPI (YoY) (Nov),,2.2%,2.2%,2.0%
+"Thursday, December 14, 2017",00:30,US,Fed Interest Rate Decision,,1.50%,1.50%,1.25%
+"Thursday, December 14, 2017",19:00,US,Initial Jobless Claims,,225K,239K,236K
+"Thursday, December 21, 2017",19:00,US,Initial Jobless Claims,,245K,231K,225K
+"Friday, December 22, 2017",19:00,US,Core PCE Price Index (YoY) (Nov),,1.5%,1.5%,1.4%
+"Friday, December 22, 2017",19:00,US,Core PCE Price Index (MoM) (Nov),,0.1%,0.1%,0.2%
+"Thursday, December 28, 2017",19:00,US,Initial Jobless Claims,,245K,240K,245K
+"Thursday, January 4, 2018",19:00,US,Initial Jobless Claims,,250K,241K,247K
+"Friday, January 5, 2018",19:00,US,Nonfarm Payrolls (Dec),,148K,190K,252K
+"Friday, January 5, 2018",19:00,US,Unemployment Rate (Dec),,4.1%,4.1%,4.1%
+"Thursday, January 11, 2018",19:00,US,Initial Jobless Claims,,261K,246K,250K
+"Friday, January 12, 2018",19:00,US,CPI (MoM) (Dec),,0.1%,0.2%,0.4%
+"Friday, January 12, 2018",19:00,US,Core CPI (MoM) (Dec),,0.3%,0.2%,0.1%
+"Friday, January 12, 2018",19:00,US,CPI (YoY) (Dec),,2.1%,2.1%,2.2%
+"Thursday, January 18, 2018",19:00,US,Initial Jobless Claims,,220K,250K,261K
+"Thursday, January 25, 2018",19:00,US,Initial Jobless Claims,,233K,236K,216K
+"Monday, January 29, 2018",19:00,US,Core PCE Price Index (YoY) (Dec),,1.5%,1.5%,1.5%
+"Monday, January 29, 2018",19:00,US,Core PCE Price Index (MoM) (Dec),,0.2%,0.2%,0.1%
+"Thursday, February 1, 2018",00:30,US,Fed Interest Rate Decision,,1.50%,1.50%,1.50%
+"Thursday, February 1, 2018",19:00,US,Initial Jobless Claims,,230K,238K,231K
+"Friday, February 2, 2018",19:00,US,Nonfarm Payrolls (Jan),,200K,184K,160K
+"Friday, February 2, 2018",19:00,US,Unemployment Rate (Jan),,4.1%,4.1%,4.1%
+"Thursday, February 8, 2018",19:00,US,Initial Jobless Claims,,221K,236K,230K
+"Wednesday, February 14, 2018",19:00,US,CPI (MoM) (Jan),,0.5%,0.3%,0.2%
+"Wednesday, February 14, 2018",19:00,US,Core CPI (MoM) (Jan),,0.3%,0.2%,0.2%
+"Wednesday, February 14, 2018",19:00,US,CPI (YoY) (Jan),,2.1%,1.9%,2.1%
+"Thursday, February 15, 2018",19:00,US,Initial Jobless Claims,,230K,230K,223K
+"Thursday, February 22, 2018",19:00,US,Initial Jobless Claims,,222K,230K,229K
+"Thursday, March 1, 2018",19:00,US,Core PCE Price Index (MoM) (Jan),,0.3%,0.3%,0.2%
+"Thursday, March 1, 2018",19:00,US,Core PCE Price Index (YoY) (Jan),,1.5%,1.5%,1.5%
+"Thursday, March 1, 2018",19:00,US,Initial Jobless Claims,,210K,226K,220K
+"Thursday, March 8, 2018",19:00,US,Initial Jobless Claims,,231K,220K,210K
+"Friday, March 9, 2018",19:00,US,Nonfarm Payrolls (Feb),,313K,200K,239K
+"Friday, March 9, 2018",19:00,US,Unemployment Rate (Feb),,4.1%,4.0%,4.1%
+"Tuesday, March 13, 2018",18:00,US,CPI (MoM) (Feb),,0.2%,0.2%,0.5%
+"Tuesday, March 13, 2018",18:00,US,Core CPI (MoM) (Feb),,0.2%,0.2%,0.3%
+"Tuesday, March 13, 2018",18:00,US,CPI (YoY) (Feb),,2.2%,2.2%,2.1%
+"Thursday, March 15, 2018",18:00,US,Initial Jobless Claims,,226K,230K,230K
+"Wednesday, March 21, 2018",23:30,US,Fed Interest Rate Decision,,1.75%,1.75%,1.50%
+"Thursday, March 22, 2018",18:00,US,Initial Jobless Claims,,229K,225K,226K
+"Thursday, March 29, 2018",18:00,US,Core PCE Price Index (MoM) (Feb),,0.2%,0.2%,0.3%
+"Thursday, March 29, 2018",18:00,US,Core PCE Price Index (YoY) (Feb),,1.6%,1.6%,1.5%
+"Thursday, March 29, 2018",18:00,US,Initial Jobless Claims,,215K,230K,227K
+"Thursday, April 5, 2018",18:00,US,Initial Jobless Claims,,242K,225K,218K
+"Friday, April 6, 2018",18:00,US,Nonfarm Payrolls (Mar),,103K,193K,326K
+"Friday, April 6, 2018",18:00,US,Unemployment Rate (Mar),,4.1%,4.0%,4.1%
+"Wednesday, April 11, 2018",18:00,US,Core CPI (MoM) (Mar),,0.2%,0.2%,0.2%
+"Wednesday, April 11, 2018",18:00,US,CPI (YoY) (Mar),,2.4%,2.4%,2.2%
+"Wednesday, April 11, 2018",18:00,US,CPI (MoM) (Mar),,-0.1%,0.0%,0.2%
+"Thursday, April 12, 2018",18:00,US,Initial Jobless Claims,,233K,231K,242K
+"Thursday, April 19, 2018",18:00,US,Initial Jobless Claims,,232K,230K,233K
+"Thursday, April 26, 2018",18:00,US,Initial Jobless Claims,,209K,230K,233K
+"Monday, April 30, 2018",18:00,US,Core PCE Price Index (YoY) (Mar),,1.9%,1.9%,1.6%
+"Monday, April 30, 2018",18:00,US,Core PCE Price Index (MoM) (Mar),,0.2%,0.2%,0.2%
+"Wednesday, May 2, 2018",23:30,US,Fed Interest Rate Decision,,1.75%,1.75%,1.75%
+"Thursday, May 3, 2018",18:00,US,Initial Jobless Claims,,211K,225K,209K
+"Friday, May 4, 2018",18:00,US,Nonfarm Payrolls (Apr),,164K,189K,135K
+"Friday, May 4, 2018",18:00,US,Unemployment Rate (Apr),,3.9%,4.0%,4.1%
+"Thursday, May 10, 2018",18:00,US,CPI (YoY) (Apr),,2.5%,2.5%,2.4%
+"Thursday, May 10, 2018",18:00,US,Core CPI (MoM) (Apr),,0.1%,0.2%,0.2%
+"Thursday, May 10, 2018",18:00,US,CPI (MoM) (Apr),,0.2%,0.3%,-0.1%
+"Thursday, May 10, 2018",18:00,US,Initial Jobless Claims,,211K,219K,211K
+"Thursday, May 17, 2018",18:00,US,Initial Jobless Claims,,222K,215K,211K
+"Thursday, May 24, 2018",18:00,US,Initial Jobless Claims,,234K,220K,223K
+"Thursday, May 31, 2018",18:00,US,Core PCE Price Index (MoM) (Apr),,0.2%,0.1%,0.2%
+"Thursday, May 31, 2018",18:00,US,Core PCE Price Index (YoY) (Apr),,1.8%,1.8%,1.8%
+"Thursday, May 31, 2018",18:00,US,Initial Jobless Claims,,221K,234K,234K
+"Friday, June 1, 2018",18:00,US,Nonfarm Payrolls (May),,223K,189K,159K
+"Friday, June 1, 2018",18:00,US,Unemployment Rate (May),,3.8%,3.9%,3.9%
+"Thursday, June 7, 2018",18:00,US,Initial Jobless Claims,,222K,223K,223K
+"Tuesday, June 12, 2018",18:00,US,CPI (MoM) (May),,0.2%,0.2%,0.2%
+"Tuesday, June 12, 2018",18:00,US,Core CPI (MoM) (May),,0.2%,0.1%,0.1%
+"Tuesday, June 12, 2018",18:00,US,CPI (YoY) (May),,2.8%,2.7%,2.5%
+"Wednesday, June 13, 2018",23:30,US,Fed Interest Rate Decision,,2.00%,2.00%,1.75%
+"Thursday, June 14, 2018",18:00,US,Initial Jobless Claims,,218K,223K,222K
+"Thursday, June 21, 2018",18:00,US,Initial Jobless Claims,,218K,220K,221K
+"Thursday, June 28, 2018",18:00,US,Initial Jobless Claims,,227K,220K,218K
+"Friday, June 29, 2018",18:00,US,Core PCE Price Index (YoY) (May),,2.0%,1.9%,1.8%
+"Friday, June 29, 2018",18:00,US,Core PCE Price Index (MoM) (May),,0.2%,0.2%,0.2%
+"Thursday, July 5, 2018",18:00,US,Initial Jobless Claims,,231K,231K,228K
+"Friday, July 6, 2018",18:00,US,Nonfarm Payrolls (Jun),,213K,200K,244K
+"Friday, July 6, 2018",18:00,US,Unemployment Rate (Jun),,4.0%,3.8%,3.8%
+"Thursday, July 12, 2018",18:00,US,CPI (MoM) (Jun),,0.1%,0.2%,0.2%
+"Thursday, July 12, 2018",18:00,US,CPI (YoY) (Jun),,2.9%,2.9%,2.8%
+"Thursday, July 12, 2018",18:00,US,Core CPI (MoM) (Jun),,0.2%,0.2%,0.2%
+"Thursday, July 12, 2018",18:00,US,Initial Jobless Claims,,214K,226K,232K
+"Thursday, July 19, 2018",18:00,US,Initial Jobless Claims,,207K,220K,215K
+"Thursday, July 26, 2018",18:00,US,Initial Jobless Claims,,217K,215K,208K
+"Tuesday, July 31, 2018",18:00,US,Core PCE Price Index (YoY) (Jun),,1.9%,2.0%,1.9%
+"Tuesday, July 31, 2018",18:00,US,Core PCE Price Index (MoM) (Jun),,0.1%,0.1%,0.2%
+"Wednesday, August 1, 2018",23:30,US,Fed Interest Rate Decision,,2.00%,2.00%,2.00%
+"Thursday, August 2, 2018",18:00,US,Initial Jobless Claims,,218K,220K,217K
+"Friday, August 3, 2018",18:00,US,Unemployment Rate (Jul),,3.9%,3.9%,4.0%
+"Friday, August 3, 2018",18:00,US,Nonfarm Payrolls (Jul),,157K,193K,248K
+"Thursday, August 9, 2018",18:00,US,Initial Jobless Claims,,213K,220K,219K
+"Friday, August 10, 2018",18:00,US,CPI (MoM) (Jul),,0.2%,0.2%,0.1%
+"Friday, August 10, 2018",18:00,US,Core CPI (MoM) (Jul),,0.2%,0.2%,0.2%
+"Friday, August 10, 2018",18:00,US,CPI (YoY) (Jul),,2.9%,3.0%,2.9%
+"Thursday, August 16, 2018",18:00,US,Initial Jobless Claims,,212K,215K,214K
+"Thursday, August 23, 2018",18:00,US,Initial Jobless Claims,,210K,215K,212K
+"Thursday, August 30, 2018",18:00,US,Core PCE Price Index (MoM) (Jul),,0.2%,0.2%,0.1%
+"Thursday, August 30, 2018",18:00,US,Core PCE Price Index (YoY) (Jul),,2.0%,2.0%,1.9%
+"Thursday, August 30, 2018",18:00,US,Initial Jobless Claims,,213K,214K,210K
+"Thursday, September 6, 2018",18:00,US,Initial Jobless Claims,,203K,214K,213K
+"Friday, September 7, 2018",18:00,US,Nonfarm Payrolls (Aug),,201K,191K,147K
+"Friday, September 7, 2018",18:00,US,Unemployment Rate (Aug),,3.9%,3.8%,3.9%
+"Thursday, September 13, 2018",18:00,US,Core CPI (MoM) (Aug),,0.1%,0.2%,0.2%
+"Thursday, September 13, 2018",18:00,US,CPI (MoM) (Aug),,0.2%,0.3%,0.2%
+"Thursday, September 13, 2018",18:00,US,CPI (YoY) (Aug),,2.7%,2.8%,2.9%
+"Thursday, September 13, 2018",18:00,US,Initial Jobless Claims,,204K,210K,205K
+"Thursday, September 20, 2018",18:00,US,Initial Jobless Claims,,201K,210K,204K
+"Wednesday, September 26, 2018",23:30,US,Fed Interest Rate Decision,,2.25%,2.25%,2.00%
+"Thursday, September 27, 2018",18:00,US,Initial Jobless Claims,,214K,208K,202K
+"Friday, September 28, 2018",18:00,US,Core PCE Price Index (MoM) (Aug),,0.0%,0.1%,0.2%
+"Friday, September 28, 2018",18:00,US,Core PCE Price Index (YoY) (Aug),,2.0%,2.0%,2.0%
+"Thursday, October 4, 2018",18:00,US,Initial Jobless Claims,,207K,211K,215K
+"Friday, October 5, 2018",18:00,US,Nonfarm Payrolls (Sep),,134K,185K,270K
+"Friday, October 5, 2018",18:00,US,Unemployment Rate (Sep),,3.7%,3.8%,3.9%
+"Thursday, October 11, 2018",18:00,US,Core CPI (MoM) (Sep),,0.1%,0.2%,0.1%
+"Thursday, October 11, 2018",18:00,US,CPI (MoM) (Sep),,0.1%,0.2%,0.2%
+"Thursday, October 11, 2018",18:00,US,CPI (YoY) (Sep),,2.3%,2.4%,2.7%
+"Thursday, October 11, 2018",18:00,US,Initial Jobless Claims,,214K,206K,207K
+"Thursday, October 18, 2018",18:00,US,Initial Jobless Claims,,210K,211K,215K
+"Thursday, October 25, 2018",18:00,US,Initial Jobless Claims,,215K,214K,210K
+"Monday, October 29, 2018",18:00,US,Core PCE Price Index (MoM) (Sep),,0.2%,0.1%,0.0%
+"Monday, October 29, 2018",18:00,US,Core PCE Price Index (YoY) (Sep),,2.0%,2.0%,2.0%
+"Thursday, November 1, 2018",18:00,US,Initial Jobless Claims,,214K,213K,216K
+"Friday, November 2, 2018",18:00,US,Nonfarm Payrolls (Oct),,250K,193K,118K
+"Friday, November 2, 2018",18:00,US,Unemployment Rate (Oct),,3.7%,3.7%,3.7%
+"Thursday, November 8, 2018",19:00,US,Initial Jobless Claims,,214K,214K,215K
+"Friday, November 9, 2018",00:30,US,Fed Interest Rate Decision,,2.25%,2.25%,2.25%
+"Wednesday, November 14, 2018",19:00,US,Core CPI (MoM) (Oct),,0.2%,0.2%,0.1%
+"Wednesday, November 14, 2018",19:00,US,CPI (MoM) (Oct),,0.3%,0.3%,0.1%
+"Wednesday, November 14, 2018",19:00,US,CPI (YoY) (Oct),,2.5%,2.5%,2.3%
+"Thursday, November 15, 2018",19:00,US,Initial Jobless Claims,,216K,216K,214K
+"Wednesday, November 21, 2018",19:00,US,Initial Jobless Claims,,224K,215K,221K
+"Thursday, November 29, 2018",19:00,US,Core PCE Price Index (MoM) (Oct),,0.1%,0.2%,0.2%
+"Thursday, November 29, 2018",19:00,US,Core PCE Price Index (YoY) (Oct),,1.8%,1.9%,1.9%
+"Thursday, November 29, 2018",19:00,US,Initial Jobless Claims,,234K,221K,224K
+"Thursday, December 6, 2018",19:00,US,Initial Jobless Claims,,231K,226K,235K
+"Friday, December 7, 2018",19:00,US,Nonfarm Payrolls (Nov),,155K,200K,237K
+"Friday, December 7, 2018",19:00,US,Unemployment Rate (Nov),,3.7%,3.7%,3.7%
+"Wednesday, December 12, 2018",19:00,US,Core CPI (MoM) (Nov),,0.2%,0.2%,0.2%
+"Wednesday, December 12, 2018",19:00,US,CPI (MoM) (Nov),,0.0%,0.1%,0.3%
+"Wednesday, December 12, 2018",19:00,US,CPI (YoY) (Nov),,2.2%,2.2%,2.5%
+"Thursday, December 13, 2018",19:00,US,Initial Jobless Claims,,206K,226K,233K
+"Thursday, December 20, 2018",00:30,US,Fed Interest Rate Decision,,2.50%,2.50%,2.25%
+"Thursday, December 20, 2018",19:00,US,Initial Jobless Claims,,214K,219K,206K
+"Friday, December 21, 2018",20:30,US,Core PCE Price Index (MoM) (Nov),,0.1%,0.2%,0.1%
+"Friday, December 21, 2018",20:30,US,Core PCE Price Index (YoY) (Nov),,1.9%,1.9%,1.8%
+"Thursday, December 27, 2018",19:00,US,Initial Jobless Claims,,216K,217K,217K
+"Thursday, January 3, 2019",19:00,US,Initial Jobless Claims,,231K,220K,221K
+"Friday, January 4, 2019",19:00,US,Nonfarm Payrolls (Dec),,312K,178K,176K
+"Friday, January 4, 2019",19:00,US,Unemployment Rate (Dec),,3.9%,3.7%,3.7%
+"Thursday, January 10, 2019",19:00,US,Initial Jobless Claims,,216K,225K,233K
+"Friday, January 11, 2019",19:00,US,Core CPI (MoM) (Dec),,0.2%,0.2%,0.2%
+"Friday, January 11, 2019",19:00,US,CPI (MoM) (Dec),,-0.1%,-0.1%,0.0%
+"Friday, January 11, 2019",19:00,US,CPI (YoY) (Dec),,1.9%,1.9%,2.2%
+"Thursday, January 17, 2019",19:00,US,Initial Jobless Claims,,213K,219K,216K
+"Thursday, January 24, 2019",19:00,US,Initial Jobless Claims,,199K,219K,212K
+"Thursday, January 31, 2019",00:30,US,Fed Interest Rate Decision,,2.50%,2.50%,2.50%
+"Thursday, January 31, 2019",19:00,US,Initial Jobless Claims,,253K,215K,200K
+"Friday, February 1, 2019",19:00,US,Nonfarm Payrolls (Jan),,304K,165K,222K
+"Friday, February 1, 2019",19:00,US,Unemployment Rate (Jan),,4.0%,3.9%,3.9%
+"Thursday, February 7, 2019",19:00,US,Initial Jobless Claims,,234K,221K,253K
+"Wednesday, February 13, 2019",19:00,US,CPI (MoM) (Jan),,0.0%,0.1%,-0.1%
+"Wednesday, February 13, 2019",19:00,US,Core CPI (MoM) (Jan),,0.2%,0.2%,0.2%
+"Wednesday, February 13, 2019",19:00,US,CPI (YoY) (Jan),,1.6%,1.5%,1.9%
+"Thursday, February 14, 2019",19:00,US,Initial Jobless Claims,,239K,225K,235K
+"Thursday, February 21, 2019",19:00,US,Initial Jobless Claims,,216K,220K,239K
+"Thursday, February 28, 2019",19:00,US,Initial Jobless Claims,,225K,221K,217K
+"Friday, March 1, 2019",19:00,US,Core PCE Price Index (YoY) (Dec),,1.9%,1.9%,1.9%
+"Friday, March 1, 2019",19:00,US,Core PCE Price Index (MoM) (Dec),,0.2%,0.2%,0.2%
+"Thursday, March 7, 2019",19:00,US,Initial Jobless Claims,,223K,225K,226K
+"Friday, March 8, 2019",19:00,US,Nonfarm Payrolls (Feb),,20K,181K,311K
+"Friday, March 8, 2019",19:00,US,Unemployment Rate (Feb),,3.8%,3.9%,4.0%
+"Tuesday, March 12, 2019",18:00,US,CPI (MoM) (Feb),,0.2%,0.2%,0.0%
+"Tuesday, March 12, 2019",18:00,US,Core CPI (MoM) (Feb),,0.1%,0.2%,0.2%
+"Tuesday, March 12, 2019",18:00,US,CPI (YoY) (Feb),,1.5%,1.6%,1.6%
+"Thursday, March 14, 2019",18:00,US,Initial Jobless Claims,,229K,225K,223K
+"Wednesday, March 20, 2019",23:30,US,Fed Interest Rate Decision,,2.50%,2.50%,2.50%
+"Thursday, March 21, 2019",18:00,US,Initial Jobless Claims,,221K,226K,230K
+"Thursday, March 28, 2019",18:00,US,Initial Jobless Claims,,211K,220K,216K
+"Friday, March 29, 2019",18:00,US,Core PCE Price Index (MoM) (Jan),,0.1%,0.2%,0.2%
+"Friday, March 29, 2019",18:00,US,Core PCE Price Index (YoY) (Jan),,1.8%,1.9%,2.0%
+"Thursday, April 4, 2019",18:00,US,Initial Jobless Claims,,202K,216K,212K
+"Friday, April 5, 2019",18:00,US,Nonfarm Payrolls (Mar),,196K,175K,33K
+"Friday, April 5, 2019",18:00,US,Unemployment Rate (Mar),,3.8%,3.8%,3.8%
+"Wednesday, April 10, 2019",18:00,US,CPI (MoM) (Mar),,0.4%,0.3%,0.2%
+"Wednesday, April 10, 2019",18:00,US,Core CPI (MoM) (Mar),,0.1%,0.2%,0.1%
+"Wednesday, April 10, 2019",18:00,US,CPI (YoY) (Mar),,1.9%,1.8%,1.5%
+"Thursday, April 11, 2019",18:00,US,Initial Jobless Claims,,196K,211K,204K
+"Thursday, April 18, 2019",18:00,US,Initial Jobless Claims,,192K,205K,197K
+"Thursday, April 25, 2019",18:00,US,Initial Jobless Claims,,230K,199K,193K
+"Monday, April 29, 2019",18:00,US,Core PCE Price Index (MoM) (Feb),,0.1%,0.2%,0.1%
+"Monday, April 29, 2019",18:00,US,Core PCE Price Index (YoY) (Feb),,1.6%,1.7%,1.8%
+"Monday, April 29, 2019",18:00,US,Core PCE Price Index (MoM) (Mar),,0.0%,0.1%,0.1%
+"Monday, April 29, 2019",18:00,US,Core PCE Price Index (YoY) (Mar),,1.6%,1.7%,1.7%
+"Wednesday, May 1, 2019",23:30,US,Fed Interest Rate Decision,,2.50%,2.50%,2.50%
+"Thursday, May 2, 2019",18:00,US,Initial Jobless Claims,,230K,220K,230K
+"Friday, May 3, 2019",18:00,US,Nonfarm Payrolls (Apr),,263K,181K,189K
+"Friday, May 3, 2019",18:00,US,Unemployment Rate (Apr),,3.6%,3.8%,3.8%
+"Thursday, May 9, 2019",18:00,US,Initial Jobless Claims,,228K,215K,230K
+"Friday, May 10, 2019",18:00,US,CPI (MoM) (Apr),,0.3%,0.4%,0.4%
+"Friday, May 10, 2019",18:00,US,Core CPI (MoM) (Apr),,0.1%,0.2%,0.1%
+"Friday, May 10, 2019",18:00,US,CPI (YoY) (Apr),,2.0%,2.1%,1.9%
+"Thursday, May 16, 2019",18:00,US,Initial Jobless Claims,,212K,220K,228K
+"Thursday, May 23, 2019",18:00,US,Initial Jobless Claims,,211K,215K,212K
+"Thursday, May 30, 2019",18:00,US,Initial Jobless Claims,,215K,216K,212K
+"Friday, May 31, 2019",18:00,US,Core PCE Price Index (MoM) (Apr),,0.2%,0.2%,0.1%
+"Friday, May 31, 2019",18:00,US,Core PCE Price Index (YoY) (Apr),,1.6%,1.6%,1.5%
+"Thursday, June 6, 2019",18:00,US,Initial Jobless Claims,,218K,215K,218K
+"Friday, June 7, 2019",18:00,US,Nonfarm Payrolls (May),,75K,185K,224K
+"Friday, June 7, 2019",18:00,US,Unemployment Rate (May),,3.6%,3.6%,3.6%
+"Wednesday, June 12, 2019",18:00,US,CPI (MoM) (May),,0.1%,0.1%,0.3%
+"Wednesday, June 12, 2019",18:00,US,Core CPI (MoM) (May),,0.1%,0.2%,0.1%
+"Wednesday, June 12, 2019",18:00,US,CPI (YoY) (May),,1.8%,1.9%,2.0%
+"Thursday, June 13, 2019",18:00,US,Initial Jobless Claims,,222K,216K,219K
+"Wednesday, June 19, 2019",23:30,US,Fed Interest Rate Decision,,2.50%,2.50%,2.50%
+"Thursday, June 20, 2019",18:00,US,Initial Jobless Claims,,216K,220K,222K
+"Thursday, June 27, 2019",18:00,US,Initial Jobless Claims,,227K,220K,217K
+"Friday, June 28, 2019",18:00,US,Core PCE Price Index (MoM) (May),,0.2%,0.2%,0.2%
+"Friday, June 28, 2019",18:00,US,Core PCE Price Index (YoY) (May),,1.6%,1.6%,1.6%
+"Wednesday, July 3, 2019",18:00,US,Initial Jobless Claims,,221K,220K,229K
+"Friday, July 5, 2019",18:00,US,Nonfarm Payrolls (Jun),,224K,160K,72K
+"Friday, July 5, 2019",18:00,US,Unemployment Rate (Jun),,3.7%,3.6%,3.6%
+"Thursday, July 11, 2019",18:00,US,Core CPI (MoM) (Jun),,0.3%,0.2%,0.1%
+"Thursday, July 11, 2019",18:00,US,CPI (MoM) (Jun),,0.1%,0.0%,0.1%
+"Thursday, July 11, 2019",18:00,US,CPI (YoY) (Jun),,1.6%,1.6%,1.8%
+"Thursday, July 11, 2019",18:00,US,Initial Jobless Claims,,209K,220K,222K
+"Thursday, July 18, 2019",18:00,US,Initial Jobless Claims,,216K,216K,208K
+"Thursday, July 25, 2019",18:00,US,Initial Jobless Claims,,206K,220K,216K
+"Tuesday, July 30, 2019",18:00,US,Core PCE Price Index (MoM) (Jun),,0.2%,0.2%,0.2%
+"Tuesday, July 30, 2019",18:00,US,Core PCE Price Index (YoY) (Jun),,1.6%,1.7%,1.5%
+"Wednesday, July 31, 2019",23:30,US,Fed Interest Rate Decision,,2.25%,2.25%,2.50%
+"Thursday, August 1, 2019",18:00,US,Initial Jobless Claims,,215K,214K,207K
+"Friday, August 2, 2019",18:00,US,Nonfarm Payrolls (Jul),,164K,164K,193K
+"Friday, August 2, 2019",18:00,US,Unemployment Rate (Jul),,3.7%,3.7%,3.7%
+"Thursday, August 8, 2019",18:00,US,Initial Jobless Claims,,209K,215K,217K
+"Tuesday, August 13, 2019",18:00,US,Core CPI (MoM) (Jul),,0.3%,0.2%,0.3%
+"Tuesday, August 13, 2019",18:00,US,CPI (MoM) (Jul),,0.3%,0.3%,0.1%
+"Tuesday, August 13, 2019",18:00,US,CPI (YoY) (Jul),,1.8%,1.7%,1.6%
+"Thursday, August 15, 2019",18:00,US,Initial Jobless Claims,,220K,214K,211K
+"Thursday, August 22, 2019",18:00,US,Initial Jobless Claims,,209K,216K,221K
+"Thursday, August 29, 2019",18:00,US,Initial Jobless Claims,,215K,215K,211K
+"Friday, August 30, 2019",18:00,US,Core PCE Price Index (MoM) (Jul),,0.2%,0.3%,0.2%
+"Friday, August 30, 2019",18:00,US,Core PCE Price Index (YoY) (Jul),,1.6%,1.6%,1.6%
+"Thursday, September 5, 2019",18:00,US,Initial Jobless Claims,,217K,215K,216K
+"Friday, September 6, 2019",18:00,US,Nonfarm Payrolls (Aug),,130K,160K,159K
+"Friday, September 6, 2019",18:00,US,Unemployment Rate (Aug),,3.7%,3.7%,3.7%
+"Thursday, September 12, 2019",18:00,US,CPI (MoM) (Aug),,0.1%,0.1%,0.3%
+"Thursday, September 12, 2019",18:00,US,Core CPI (MoM) (Aug),,0.3%,0.2%,0.3%
+"Thursday, September 12, 2019",18:00,US,CPI (YoY) (Aug),,1.7%,1.8%,1.8%
+"Thursday, September 12, 2019",18:00,US,Initial Jobless Claims,,204K,215K,219K
+"Wednesday, September 18, 2019",23:30,US,Fed Interest Rate Decision,,2.00%,2.00%,2.25%
+"Thursday, September 19, 2019",18:00,US,Initial Jobless Claims,,208K,213K,206K
+"Thursday, September 26, 2019",18:00,US,Initial Jobless Claims,,213K,212K,210K
+"Friday, September 27, 2019",18:00,US,Core PCE Price Index (MoM) (Aug),,0.1%,0.2%,0.2%
+"Friday, September 27, 2019",18:00,US,Core PCE Price Index (YoY) (Aug),,1.8%,1.8%,1.7%
+"Thursday, October 3, 2019",18:00,US,Initial Jobless Claims,,219K,215K,215K
+"Friday, October 4, 2019",18:00,US,Nonfarm Payrolls (Sep),,136K,140K,168K
+"Friday, October 4, 2019",18:00,US,Unemployment Rate (Sep),,3.5%,3.7%,3.7%
+"Thursday, October 10, 2019",18:00,US,CPI (MoM) (Sep),,0.0%,0.1%,0.1%
+"Thursday, October 10, 2019",18:00,US,Core CPI (MoM) (Sep),,0.1%,0.2%,0.3%
+"Thursday, October 10, 2019",18:00,US,CPI (YoY) (Sep),,1.7%,1.8%,1.7%
+"Thursday, October 10, 2019",18:00,US,Initial Jobless Claims,,210K,215K,220K
+"Thursday, October 17, 2019",18:00,US,Initial Jobless Claims,,214K,212K,210K
+"Thursday, October 24, 2019",18:00,US,Initial Jobless Claims,,212K,216K,218K
+"Wednesday, October 30, 2019",23:30,US,Fed Interest Rate Decision,,1.75%,1.75%,2.00%
+"Thursday, October 31, 2019",18:00,US,Core PCE Price Index (YoY) (Sep),,1.7%,1.7%,1.8%
+"Thursday, October 31, 2019",18:00,US,Core PCE Price Index (MoM) (Sep),,0.0%,0.1%,0.1%
+"Thursday, October 31, 2019",18:00,US,Initial Jobless Claims,,218K,215K,213K
+"Friday, November 1, 2019",18:00,US,Nonfarm Payrolls (Oct),,128K,89K,180K
+"Friday, November 1, 2019",18:00,US,Unemployment Rate (Oct),,3.6%,3.6%,3.5%
+"Thursday, November 7, 2019",19:00,US,Initial Jobless Claims,,211K,215K,218K
+"Wednesday, November 13, 2019",19:00,US,CPI (MoM) (Oct),,0.4%,0.3%,0.1%
+"Wednesday, November 13, 2019",19:00,US,Core CPI (MoM) (Oct),,0.2%,0.2%,0.1%
+"Wednesday, November 13, 2019",19:00,US,CPI (YoY) (Oct),,1.8%,1.7%,1.7%
+"Thursday, November 14, 2019",19:00,US,Initial Jobless Claims,,225K,215K,211K
+"Thursday, November 21, 2019",19:00,US,Initial Jobless Claims,,227K,219K,227K
+"Wednesday, November 27, 2019",19:00,US,Initial Jobless Claims,,213K,223K,228K
+"Wednesday, November 27, 2019",20:30,US,Core PCE Price Index (MoM) (Oct),,0.1%,0.2%,0.0%
+"Wednesday, November 27, 2019",20:30,US,Core PCE Price Index (YoY) (Oct),,1.6%,1.7%,1.7%
+"Thursday, December 5, 2019",19:00,US,Initial Jobless Claims,,203K,215K,213K
+"Friday, December 6, 2019",19:00,US,Nonfarm Payrolls (Nov),,266K,186K,156K
+"Friday, December 6, 2019",19:00,US,Unemployment Rate (Nov),,3.5%,3.6%,3.6%
+"Wednesday, December 11, 2019",19:00,US,CPI (MoM) (Nov),,0.3%,0.2%,0.4%
+"Wednesday, December 11, 2019",19:00,US,Core CPI (MoM) (Nov),,0.2%,0.2%,0.2%
+"Wednesday, December 11, 2019",19:00,US,CPI (YoY) (Nov),,2.1%,2.0%,1.8%
+"Thursday, December 12, 2019",00:30,US,Fed Interest Rate Decision,,1.75%,1.75%,1.75%
+"Thursday, December 12, 2019",19:00,US,Initial Jobless Claims,,252K,213K,203K
+"Thursday, December 19, 2019",19:00,US,Initial Jobless Claims,,234K,225K,252K
+"Friday, December 20, 2019",20:30,US,Core PCE Price Index (MoM) (Nov),,0.1%,0.1%,0.1%
+"Friday, December 20, 2019",20:30,US,Core PCE Price Index (YoY) (Nov),,1.6%,1.6%,1.7%
+"Thursday, December 26, 2019",19:00,US,Initial Jobless Claims,,222K,224K,235K
+"Thursday, January 2, 2020",19:00,US,Initial Jobless Claims,,222K,225K,224K
+"Thursday, January 9, 2020",19:00,US,Initial Jobless Claims,,214K,220K,223K
+"Friday, January 10, 2020",19:00,US,Nonfarm Payrolls (Dec),,145K,164K,256K
+"Friday, January 10, 2020",19:00,US,Unemployment Rate (Dec),,3.5%,3.5%,3.5%
+"Tuesday, January 14, 2020",19:00,US,CPI (MoM) (Dec),,0.2%,0.3%,0.3%
+"Tuesday, January 14, 2020",19:00,US,Core CPI (MoM) (Dec),,0.1%,0.2%,0.2%
+"Tuesday, January 14, 2020",19:00,US,CPI (YoY) (Dec),,2.3%,2.3%,2.1%
+"Thursday, January 16, 2020",19:00,US,Initial Jobless Claims,,204K,216K,214K
+"Thursday, January 23, 2020",19:00,US,Initial Jobless Claims,,211K,215K,205K
+"Thursday, January 30, 2020",00:30,US,Fed Interest Rate Decision,,1.75%,1.75%,1.75%
+"Thursday, January 30, 2020",19:00,US,Initial Jobless Claims,,216K,215K,223K
+"Friday, January 31, 2020",19:00,US,Core PCE Price Index (YoY) (Dec),,1.6%,1.6%,1.5%
+"Friday, January 31, 2020",19:00,US,Core PCE Price Index (MoM) (Dec),,0.2%,0.1%,0.1%
+"Thursday, February 6, 2020",19:00,US,Initial Jobless Claims,,202K,215K,217K
+"Friday, February 7, 2020",19:00,US,Nonfarm Payrolls (Jan),,225K,160K,147K
+"Friday, February 7, 2020",19:00,US,Unemployment Rate (Jan),,3.6%,3.5%,3.5%
+"Thursday, February 13, 2020",19:00,US,CPI (MoM) (Jan),,0.1%,0.2%,0.2%
+"Thursday, February 13, 2020",19:00,US,Core CPI (MoM) (Jan),,0.2%,0.2%,0.1%
+"Thursday, February 13, 2020",19:00,US,CPI (YoY) (Jan),,2.5%,2.4%,2.3%
+"Thursday, February 13, 2020",19:00,US,Initial Jobless Claims,,205K,210K,203K
+"Thursday, February 20, 2020",19:00,US,Initial Jobless Claims,,210K,210K,206K
+"Thursday, February 27, 2020",19:00,US,Initial Jobless Claims,,219K,212K,211K
+"Friday, February 28, 2020",19:00,US,Core PCE Price Index (MoM) (Jan),,0.1%,0.2%,0.2%
+"Friday, February 28, 2020",19:00,US,Core PCE Price Index (YoY) (Jan),,1.6%,1.7%,1.5%
+"Tuesday, March 3, 2020",20:30,US,Fed Interest Rate Decision,,1.25%,,1.75%
+"Thursday, March 5, 2020",19:00,US,Initial Jobless Claims,,216K,215K,219K
+"Friday, March 6, 2020",18:00,US,Nonfarm Payrolls (Feb),,273K,175K,273K
+"Friday, March 6, 2020",19:00,US,Unemployment Rate (Feb),,3.5%,3.6%,3.6%
+"Wednesday, March 11, 2020",18:00,US,CPI (MoM) (Feb),,0.1%,0.2%,0.1%
+"Wednesday, March 11, 2020",18:00,US,Core CPI (MoM) (Feb),,0.2%,0.2%,0.2%
+"Wednesday, March 11, 2020",18:00,US,CPI (YoY) (Feb),,2.3%,2.2%,2.5%
+"Thursday, March 12, 2020",18:00,US,Initial Jobless Claims,,211K,218K,215K
+"Monday, March 16, 2020",02:30,US,Fed Interest Rate Decision,,0.25%,,1.25%
+"Thursday, March 19, 2020",18:00,US,Initial Jobless Claims,,281K,220K,211K
+"Thursday, March 26, 2020",18:00,US,Initial Jobless Claims,,"3,283K","1,650K",282K
+"Friday, March 27, 2020",18:00,US,Core PCE Price Index (MoM) (Feb),,0.2%,0.2%,0.2%
+"Friday, March 27, 2020",18:00,US,Core PCE Price Index (YoY) (Feb),,1.8%,1.7%,1.7%
+"Thursday, April 2, 2020",18:00,US,Initial Jobless Claims,,"6,648K","3,500K","3,307K"
+"Friday, April 3, 2020",18:00,US,Nonfarm Payrolls (Mar),,-701K,-100K,275K
+"Friday, April 3, 2020",18:00,US,Unemployment Rate (Mar),,4.4%,3.8%,3.5%
+"Thursday, April 9, 2020",18:00,US,Initial Jobless Claims,,"6,606K","5,250K","6,867K"
+"Friday, April 10, 2020",18:00,US,CPI (MoM) (Mar),,-0.4%,-0.3%,0.1%
+"Friday, April 10, 2020",18:00,US,CPI (YoY) (Mar),,1.5%,1.6%,2.3%
+"Friday, April 10, 2020",18:00,US,Core CPI (MoM) (Mar),,-0.1%,0.1%,0.2%
+"Thursday, April 16, 2020",18:00,US,Initial Jobless Claims,,"5,245K","5,105K","6,615K"
+"Thursday, April 23, 2020",18:00,US,Initial Jobless Claims,,"4,427K","4,200K","5,237K"
+"Wednesday, April 29, 2020",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, April 30, 2020",18:00,US,Core PCE Price Index (YoY) (Mar),,1.7%,1.6%,1.8%
+"Thursday, April 30, 2020",18:00,US,Core PCE Price Index (MoM) (Mar),,-0.1%,-0.1%,0.2%
+"Thursday, April 30, 2020",18:00,US,Initial Jobless Claims,,"3,839K","3,500K","4,442K"
+"Thursday, May 7, 2020",18:00,US,Initial Jobless Claims,,"3,169K","3,000K","3,846K"
+"Friday, May 8, 2020",18:00,US,Nonfarm Payrolls (Apr),,"-20,537K","-22,000K",-870K
+"Friday, May 8, 2020",18:00,US,Unemployment Rate (Apr),,14.7%,16.0%,4.4%
+"Tuesday, May 12, 2020",18:00,US,CPI (MoM) (Apr),,-0.8%,-0.8%,-0.4%
+"Tuesday, May 12, 2020",18:00,US,Core CPI (MoM) (Apr),,-0.4%,-0.2%,-0.1%
+"Tuesday, May 12, 2020",18:00,US,CPI (YoY) (Apr),,0.3%,0.4%,1.5%
+"Thursday, May 14, 2020",18:00,US,Initial Jobless Claims,,"2,981K","2,500K","3,176K"
+"Thursday, May 21, 2020",18:00,US,Initial Jobless Claims,,"2,438K","2,400K","2,687K"
+"Thursday, May 28, 2020",18:00,US,Initial Jobless Claims,,"2,123K","2,100K","2,446K"
+"Friday, May 29, 2020",18:00,US,Core PCE Price Index (MoM) (Apr),,-0.4%,-0.3%,-0.1%
+"Friday, May 29, 2020",18:00,US,Core PCE Price Index (YoY) (Apr),,1.0%,1.1%,1.7%
+"Thursday, June 4, 2020",18:00,US,Initial Jobless Claims,,"1,877K","1,800K","2,126K"
+"Friday, June 5, 2020",18:00,US,Nonfarm Payrolls (May),,"2,509K","-8,000K","-20,687K"
+"Friday, June 5, 2020",18:00,US,Unemployment Rate (May),,13.3%,19.7%,14.7%
+"Wednesday, June 10, 2020",18:00,US,CPI (MoM) (May),,-0.1%,-0.1%,-0.8%
+"Wednesday, June 10, 2020",18:00,US,Core CPI (MoM) (May),,-0.1%,-0.1%,-0.4%
+"Wednesday, June 10, 2020",18:00,US,CPI (YoY) (May),,0.1%,0.2%,0.3%
+"Wednesday, June 10, 2020",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, June 11, 2020",18:00,US,Initial Jobless Claims,,"1,542K","1,550K","1,897K"
+"Thursday, June 18, 2020",18:00,US,Initial Jobless Claims,,"1,508K","1,300K","1,566K"
+"Thursday, June 25, 2020",18:00,US,Initial Jobless Claims,,"1,480K","1,300K","1,540K"
+"Friday, June 26, 2020",18:00,US,Core PCE Price Index (MoM) (May),,0.1%,0.2%,-0.4%
+"Friday, June 26, 2020",18:00,US,Core PCE Price Index (YoY) (May),,1.0%,0.9%,1.0%
+"Thursday, July 2, 2020",18:00,US,Nonfarm Payrolls (Jun),,"4,800K","3,000K","2,699K"
+"Thursday, July 2, 2020",18:00,US,Unemployment Rate (Jun),,11.1%,12.3%,13.3%
+"Thursday, July 2, 2020",18:00,US,Initial Jobless Claims,,"1,427K","1,355K","1,482K"
+"Thursday, July 9, 2020",18:00,US,Initial Jobless Claims,,"1,314K","1,375K","1,413K"
+"Tuesday, July 14, 2020",18:00,US,CPI (MoM) (Jun),,0.6%,0.5%,-0.1%
+"Tuesday, July 14, 2020",18:00,US,CPI (YoY) (Jun),,0.6%,0.6%,0.1%
+"Tuesday, July 14, 2020",18:00,US,Core CPI (MoM) (Jun),,0.2%,0.1%,-0.1%
+"Thursday, July 16, 2020",18:00,US,Initial Jobless Claims,,"1,300K","1,250K","1,310K"
+"Thursday, July 23, 2020",18:00,US,Initial Jobless Claims,,"1,416K","1,300K","1,307K"
+"Wednesday, July 29, 2020",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, July 30, 2020",18:00,US,Initial Jobless Claims,,"1,434K","1,450K","1,422K"
+"Friday, July 31, 2020",18:00,US,Core PCE Price Index (YoY) (Jun),,0.9%,1.0%,1.0%
+"Friday, July 31, 2020",18:00,US,Core PCE Price Index (MoM) (Jun),,0.2%,0.2%,0.2%
+"Thursday, August 6, 2020",18:00,US,Initial Jobless Claims,,"1,186K","1,415K","1,435K"
+"Friday, August 7, 2020",18:00,US,Nonfarm Payrolls (Jul),,"1,763K","1,600K","4,791K"
+"Friday, August 7, 2020",18:00,US,Unemployment Rate (Jul),,10.2%,10.5%,11.1%
+"Wednesday, August 12, 2020",18:00,US,CPI (YoY) (Jul),,1.0%,0.8%,0.6%
+"Wednesday, August 12, 2020",18:00,US,CPI (MoM) (Jul),,0.6%,0.3%,0.6%
+"Wednesday, August 12, 2020",18:00,US,Core CPI (MoM) (Jul),,0.6%,0.2%,0.2%
+"Thursday, August 13, 2020",18:00,US,Initial Jobless Claims,,963K,"1,120K","1,191K"
+"Thursday, August 20, 2020",18:00,US,Initial Jobless Claims,,"1,106K",925K,971K
+"Thursday, August 27, 2020",18:00,US,Initial Jobless Claims,,"1,006K","1,000K","1,104K"
+"Friday, August 28, 2020",18:00,US,Core PCE Price Index (MoM) (Jul),,0.3%,0.5%,0.3%
+"Friday, August 28, 2020",18:00,US,Core PCE Price Index (YoY) (Jul),,1.3%,1.2%,1.1%
+"Thursday, September 3, 2020",18:00,US,Initial Jobless Claims,,881K,950K,"1,011K"
+"Friday, September 4, 2020",18:00,US,Nonfarm Payrolls (Aug),,"1,371K","1,400K","1,734K"
+"Friday, September 4, 2020",18:00,US,Unemployment Rate (Aug),,8.4%,9.8%,10.2%
+"Thursday, September 10, 2020",18:00,US,Initial Jobless Claims,,884K,846K,884K
+"Friday, September 11, 2020",18:00,US,CPI (MoM) (Aug),,0.4%,0.3%,0.6%
+"Friday, September 11, 2020",18:00,US,Core CPI (MoM) (Aug),,0.4%,0.2%,0.6%
+"Friday, September 11, 2020",18:00,US,CPI (YoY) (Aug),,1.3%,1.2%,1.0%
+"Wednesday, September 16, 2020",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, September 17, 2020",18:00,US,Initial Jobless Claims,,860K,850K,893K
+"Thursday, September 24, 2020",18:00,US,Initial Jobless Claims,,870K,840K,866K
+"Thursday, October 1, 2020",18:00,US,Core PCE Price Index (MoM) (Aug),,0.3%,0.3%,0.4%
+"Thursday, October 1, 2020",18:00,US,Core PCE Price Index (YoY) (Aug),,1.6%,1.4%,1.4%
+"Thursday, October 1, 2020",18:00,US,Initial Jobless Claims,,837K,850K,873K
+"Friday, October 2, 2020",18:00,US,Nonfarm Payrolls (Sep),,661K,850K,"1,489K"
+"Friday, October 2, 2020",18:00,US,Unemployment Rate (Sep),,7.9%,8.2%,8.4%
+"Thursday, October 8, 2020",18:00,US,Initial Jobless Claims,,840K,820K,849K
+"Tuesday, October 13, 2020",18:00,US,Core CPI (MoM) (Sep),,0.2%,0.2%,0.4%
+"Tuesday, October 13, 2020",18:00,US,CPI (YoY) (Sep),,1.4%,1.4%,1.3%
+"Tuesday, October 13, 2020",18:00,US,CPI (MoM) (Sep),,0.2%,0.2%,0.4%
+"Thursday, October 15, 2020",18:00,US,Initial Jobless Claims,,898K,825K,845K
+"Thursday, October 22, 2020",18:00,US,Initial Jobless Claims,,787K,860K,842K
+"Thursday, October 29, 2020",18:00,US,Initial Jobless Claims,,751K,775K,791K
+"Friday, October 30, 2020",18:00,US,Core PCE Price Index (YoY) (Sep),,1.5%,1.7%,1.4%
+"Friday, October 30, 2020",18:00,US,Core PCE Price Index (MoM) (Sep),,0.2%,0.2%,0.3%
+"Thursday, November 5, 2020",19:00,US,Initial Jobless Claims,,751K,732K,758K
+"Friday, November 6, 2020",00:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Friday, November 6, 2020",19:00,US,Nonfarm Payrolls (Oct),,638K,600K,672K
+"Friday, November 6, 2020",19:00,US,Unemployment Rate (Oct),,6.9%,7.7%,7.9%
+"Thursday, November 12, 2020",19:00,US,Core CPI (MoM) (Oct),,0.0%,0.2%,0.2%
+"Thursday, November 12, 2020",19:00,US,CPI (YoY) (Oct),,1.2%,1.3%,1.4%
+"Thursday, November 12, 2020",19:00,US,CPI (MoM) (Oct),,0.0%,0.1%,0.2%
+"Thursday, November 12, 2020",19:00,US,Initial Jobless Claims,,709K,735K,757K
+"Thursday, November 19, 2020",19:00,US,Initial Jobless Claims,,742K,707K,711K
+"Wednesday, November 25, 2020",19:00,US,Initial Jobless Claims,,778K,730K,748K
+"Wednesday, November 25, 2020",20:30,US,Core PCE Price Index (MoM) (Oct),,0.0%,0.1%,0.2%
+"Wednesday, November 25, 2020",20:30,US,Core PCE Price Index (YoY) (Oct),,1.4%,1.4%,1.6%
+"Thursday, December 3, 2020",19:00,US,Initial Jobless Claims,,712K,775K,787K
+"Friday, December 4, 2020",19:00,US,Nonfarm Payrolls (Nov),,245K,469K,610K
+"Friday, December 4, 2020",19:00,US,Unemployment Rate (Nov),,6.7%,6.8%,6.9%
+"Thursday, December 10, 2020",19:00,US,Core CPI (MoM) (Nov),,0.2%,0.1%,0.2%
+"Thursday, December 10, 2020",19:00,US,CPI (MoM) (Nov),,0.2%,0.1%,0.2%
+"Thursday, December 10, 2020",19:00,US,CPI (YoY) (Nov),,1.2%,1.1%,1.2%
+"Thursday, December 10, 2020",19:00,US,Initial Jobless Claims,,853K,725K,716K
+"Thursday, December 17, 2020",00:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, December 17, 2020",19:00,US,Initial Jobless Claims,,885K,800K,862K
+"Wednesday, December 23, 2020",19:00,US,Core PCE Price Index (MoM) (Nov),,0.0%,0.1%,0.2%
+"Wednesday, December 23, 2020",19:00,US,Core PCE Price Index (YoY) (Nov),,1.4%,1.5%,1.4%
+"Wednesday, December 23, 2020",19:00,US,Initial Jobless Claims,,803K,885K,892K
+"Thursday, December 31, 2020",19:00,US,Initial Jobless Claims,,787K,833K,806K
+"Thursday, January 7, 2021",19:00,US,Initial Jobless Claims,,787K,800K,790K
+"Friday, January 8, 2021",19:00,US,Nonfarm Payrolls (Dec),,-140K,71K,336K
+"Friday, January 8, 2021",19:00,US,Unemployment Rate (Dec),,6.7%,6.8%,6.7%
+"Wednesday, January 13, 2021",19:00,US,CPI (MoM) (Dec),,0.4%,0.4%,0.2%
+"Wednesday, January 13, 2021",19:00,US,CPI (YoY) (Dec),,1.4%,1.3%,1.2%
+"Wednesday, January 13, 2021",19:00,US,Core CPI (MoM) (Dec),,0.1%,0.1%,0.2%
+"Thursday, January 14, 2021",19:00,US,Initial Jobless Claims,,965K,795K,784K
+"Thursday, January 21, 2021",19:00,US,Initial Jobless Claims,,900K,910K,926K
+"Thursday, January 28, 2021",00:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, January 28, 2021",19:00,US,Initial Jobless Claims,,847K,875K,914K
+"Friday, January 29, 2021",19:00,US,Core PCE Price Index (YoY) (Dec),,1.5%,1.3%,1.4%
+"Friday, January 29, 2021",19:00,US,Core PCE Price Index (MoM) (Dec),,0.3%,0.1%,
+"Thursday, February 4, 2021",19:00,US,Initial Jobless Claims,,779K,830K,812K
+"Friday, February 5, 2021",19:00,US,Nonfarm Payrolls (Jan),,49K,50K,-227K
+"Friday, February 5, 2021",19:00,US,Unemployment Rate (Jan),,6.3%,6.7%,6.7%
+"Wednesday, February 10, 2021",19:00,US,CPI (MoM) (Jan),,0.3%,0.3%,0.2%
+"Wednesday, February 10, 2021",19:00,US,CPI (YoY) (Jan),,1.4%,1.5%,1.3%
+"Wednesday, February 10, 2021",19:00,US,Core CPI (MoM) (Jan),,0.0%,0.2%,0.1%
+"Thursday, February 11, 2021",19:00,US,Initial Jobless Claims,,793K,757K,812K
+"Thursday, February 18, 2021",19:00,US,Initial Jobless Claims,,861K,765K,848K
+"Thursday, February 25, 2021",19:00,US,Initial Jobless Claims,,730K,838K,841K
+"Friday, February 26, 2021",19:00,US,Core PCE Price Index (MoM) (Jan),,0.3%,0.2%,0.3%
+"Friday, February 26, 2021",19:00,US,Core PCE Price Index (YoY) (Jan),,1.5%,1.4%,1.4%
+"Thursday, March 4, 2021",19:00,US,Initial Jobless Claims,,745K,750K,736K
+"Friday, March 5, 2021",19:00,US,Nonfarm Payrolls (Feb),,379K,182K,166K
+"Friday, March 5, 2021",19:00,US,Unemployment Rate (Feb),,6.2%,6.3%,6.3%
+"Wednesday, March 10, 2021",19:00,US,CPI (MoM) (Feb),,0.4%,0.4%,0.3%
+"Wednesday, March 10, 2021",19:00,US,Core CPI (MoM) (Feb),,0.1%,0.2%,0.1%
+"Wednesday, March 10, 2021",19:00,US,CPI (YoY) (Feb),,1.7%,1.7%,1.4%
+"Thursday, March 11, 2021",19:00,US,Initial Jobless Claims,,712K,725K,754K
+"Wednesday, March 17, 2021",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, March 18, 2021",18:00,US,Initial Jobless Claims,,770K,700K,725K
+"Thursday, March 25, 2021",18:00,US,Initial Jobless Claims,,684K,730K,781K
+"Friday, March 26, 2021",19:00,US,Core PCE Price Index (MoM) (Feb),,0.1%,0.1%,0.2%
+"Friday, March 26, 2021",19:00,US,Core PCE Price Index (YoY) (Feb),,1.4%,1.5%,1.5%
+"Thursday, April 1, 2021",18:00,US,Initial Jobless Claims,,719K,680K,658K
+"Friday, April 2, 2021",18:00,US,Nonfarm Payrolls (Mar),,916K,647K,468K
+"Friday, April 2, 2021",18:00,US,Unemployment Rate (Mar),,6.0%,6.0%,6.2%
+"Thursday, April 8, 2021",18:00,US,Initial Jobless Claims,,744K,680K,728K
+"Tuesday, April 13, 2021",18:00,US,CPI (MoM) (Mar),,0.6%,0.5%,0.4%
+"Tuesday, April 13, 2021",18:00,US,CPI (YoY) (Mar),,2.6%,2.5%,1.7%
+"Tuesday, April 13, 2021",18:00,US,Core CPI (MoM) (Mar),,0.3%,0.2%,0.1%
+"Thursday, April 15, 2021",18:00,US,Initial Jobless Claims,,576K,700K,769K
+"Thursday, April 22, 2021",18:00,US,Initial Jobless Claims,,547K,617K,586K
+"Wednesday, April 28, 2021",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, April 29, 2021",18:00,US,Initial Jobless Claims,,553K,549K,566K
+"Friday, April 30, 2021",18:00,US,Core PCE Price Index (MoM) (Mar),,0.4%,0.3%,0.1%
+"Friday, April 30, 2021",18:00,US,Core PCE Price Index (YoY) (Mar),,1.8%,1.8%,1.4%
+"Thursday, May 6, 2021",18:00,US,Initial Jobless Claims,,498K,540K,590K
+"Friday, May 7, 2021",18:00,US,Nonfarm Payrolls (Apr),,266K,978K,770K
+"Friday, May 7, 2021",18:00,US,Unemployment Rate (Apr),,6.1%,5.8%,6.0%
+"Wednesday, May 12, 2021",18:00,US,CPI (MoM) (Apr),,0.8%,0.2%,0.6%
+"Wednesday, May 12, 2021",18:00,US,CPI (YoY) (Apr),,4.2%,3.6%,2.6%
+"Wednesday, May 12, 2021",18:00,US,Core CPI (MoM) (Apr),,0.9%,0.3%,0.3%
+"Thursday, May 13, 2021",18:00,US,Initial Jobless Claims,,473K,490K,507K
+"Thursday, May 20, 2021",18:00,US,Initial Jobless Claims,,444K,450K,478K
+"Thursday, May 27, 2021",18:00,US,Initial Jobless Claims,,406K,425K,444K
+"Friday, May 28, 2021",18:00,US,Core PCE Price Index (MoM) (Apr),,0.7%,0.6%,0.4%
+"Friday, May 28, 2021",18:00,US,Core PCE Price Index (YoY) (Apr),,3.1%,2.9%,1.9%
+"Thursday, June 3, 2021",18:00,US,Initial Jobless Claims,,385K,390K,405K
+"Friday, June 4, 2021",18:00,US,Nonfarm Payrolls (May),,559K,650K,278K
+"Friday, June 4, 2021",18:00,US,Unemployment Rate (May),,5.8%,5.9%,6.1%
+"Thursday, June 10, 2021",18:00,US,CPI (MoM) (May),,0.6%,0.4%,0.8%
+"Thursday, June 10, 2021",18:00,US,Core CPI (MoM) (May),,0.7%,0.4%,0.9%
+"Thursday, June 10, 2021",18:00,US,CPI (YoY) (May),,5.0%,4.7%,4.2%
+"Thursday, June 10, 2021",18:00,US,Initial Jobless Claims,,376K,370K,405K
+"Wednesday, June 16, 2021",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, June 17, 2021",18:00,US,Initial Jobless Claims,,412K,359K,375K
+"Thursday, June 24, 2021",18:00,US,Initial Jobless Claims,,411K,380K,418K
+"Friday, June 25, 2021",18:00,US,Core PCE Price Index (MoM) (May),,0.5%,0.6%,0.7%
+"Friday, June 25, 2021",18:00,US,Core PCE Price Index (YoY) (May),,3.4%,3.4%,3.1%
+"Thursday, July 1, 2021",18:00,US,Initial Jobless Claims,,364K,390K,415K
+"Friday, July 2, 2021",18:00,US,Nonfarm Payrolls (Jun),,850K,700K,583K
+"Friday, July 2, 2021",18:00,US,Unemployment Rate (Jun),,5.9%,5.7%,5.8%
+"Thursday, July 8, 2021",18:00,US,Initial Jobless Claims,,373K,350K,371K
+"Tuesday, July 13, 2021",18:00,US,CPI (MoM) (Jun),,0.9%,0.5%,0.6%
+"Tuesday, July 13, 2021",18:00,US,CPI (YoY) (Jun),,5.4%,4.9%,5.0%
+"Tuesday, July 13, 2021",18:00,US,Core CPI (MoM) (Jun),,0.9%,0.4%,0.7%
+"Thursday, July 15, 2021",18:00,US,Initial Jobless Claims,,360K,360K,386K
+"Thursday, July 22, 2021",18:00,US,Initial Jobless Claims,,419K,350K,368K
+"Wednesday, July 28, 2021",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, July 29, 2021",18:00,US,Initial Jobless Claims,,400K,380K,424K
+"Friday, July 30, 2021",18:00,US,Core PCE Price Index (MoM) (Jun),,0.4%,0.6%,0.5%
+"Friday, July 30, 2021",18:00,US,Core PCE Price Index (YoY) (Jun),,3.5%,3.7%,3.4%
+"Thursday, August 5, 2021",18:00,US,Initial Jobless Claims,,385K,384K,399K
+"Friday, August 6, 2021",18:00,US,Nonfarm Payrolls (Jul),,943K,870K,938K
+"Friday, August 6, 2021",18:00,US,Unemployment Rate (Jul),,5.4%,5.7%,5.9%
+"Wednesday, August 11, 2021",18:00,US,CPI (MoM) (Jul),,0.5%,0.5%,0.9%
+"Wednesday, August 11, 2021",18:00,US,Core CPI (MoM) (Jul),,0.3%,0.4%,0.9%
+"Wednesday, August 11, 2021",18:00,US,CPI (YoY) (Jul),,5.4%,5.3%,5.4%
+"Thursday, August 12, 2021",18:00,US,Initial Jobless Claims,,375K,375K,387K
+"Thursday, August 19, 2021",18:00,US,Initial Jobless Claims,,348K,363K,377K
+"Thursday, August 26, 2021",18:00,US,Initial Jobless Claims,,353K,350K,349K
+"Friday, August 27, 2021",18:00,US,Core PCE Price Index (MoM) (Jul),,0.3%,0.3%,0.5%
+"Friday, August 27, 2021",18:00,US,Core PCE Price Index (YoY) (Jul),,3.6%,3.6%,3.6%
+"Thursday, September 2, 2021",18:00,US,Initial Jobless Claims,,340K,345K,354K
+"Friday, September 3, 2021",18:00,US,Nonfarm Payrolls (Aug),,235K,750K,"1,053K"
+"Friday, September 3, 2021",18:00,US,Unemployment Rate (Aug),,5.2%,5.2%,5.4%
+"Thursday, September 9, 2021",18:00,US,Initial Jobless Claims,,310K,335K,345K
+"Tuesday, September 14, 2021",18:00,US,CPI (MoM) (Aug),,0.3%,0.4%,0.5%
+"Tuesday, September 14, 2021",18:00,US,Core CPI (MoM) (Aug),,0.1%,0.3%,0.3%
+"Tuesday, September 14, 2021",18:00,US,CPI (YoY) (Aug),,5.3%,5.3%,5.4%
+"Thursday, September 16, 2021",18:00,US,Initial Jobless Claims,,332K,330K,312K
+"Wednesday, September 22, 2021",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, September 23, 2021",18:00,US,Initial Jobless Claims,,351K,320K,335K
+"Thursday, September 30, 2021",18:00,US,Initial Jobless Claims,,362K,335K,351K
+"Friday, October 1, 2021",18:00,US,Core PCE Price Index (YoY) (Aug),,3.6%,3.6%,3.6%
+"Friday, October 1, 2021",18:00,US,Core PCE Price Index (MoM) (Aug),,0.3%,0.2%,0.3%
+"Thursday, October 7, 2021",18:00,US,Initial Jobless Claims,,326K,348K,364K
+"Friday, October 8, 2021",18:00,US,Nonfarm Payrolls (Sep),,194K,500K,366K
+"Friday, October 8, 2021",18:00,US,Unemployment Rate (Sep),,4.8%,5.1%,5.2%
+"Wednesday, October 13, 2021",18:00,US,CPI (MoM) (Sep),,0.4%,0.3%,0.3%
+"Wednesday, October 13, 2021",18:00,US,CPI (YoY) (Sep),,5.4%,5.3%,5.3%
+"Wednesday, October 13, 2021",18:00,US,Core CPI (MoM) (Sep),,0.2%,0.2%,0.1%
+"Thursday, October 14, 2021",18:00,US,Initial Jobless Claims,,293K,319K,329K
+"Thursday, October 21, 2021",18:00,US,Initial Jobless Claims,,290K,300K,296K
+"Thursday, October 28, 2021",18:00,US,Initial Jobless Claims,,281K,290K,291K
+"Friday, October 29, 2021",18:00,US,Core PCE Price Index (MoM) (Sep),,0.2%,0.2%,0.3%
+"Friday, October 29, 2021",18:00,US,Core PCE Price Index (YoY) (Sep),,3.6%,3.7%,3.6%
+"Wednesday, November 3, 2021",23:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, November 4, 2021",18:00,US,Initial Jobless Claims,,269K,275K,283K
+"Friday, November 5, 2021",18:00,US,Nonfarm Payrolls (Oct),,531K,450K,312K
+"Friday, November 5, 2021",18:00,US,Unemployment Rate (Oct),,4.6%,4.7%,4.8%
+"Wednesday, November 10, 2021",19:00,US,CPI (MoM) (Oct),,0.9%,0.6%,0.4%
+"Wednesday, November 10, 2021",19:00,US,Core CPI (MoM) (Oct),,0.6%,0.4%,0.2%
+"Wednesday, November 10, 2021",19:00,US,CPI (YoY) (Oct),,6.2%,5.8%,5.4%
+"Wednesday, November 10, 2021",19:00,US,Initial Jobless Claims,,267K,265K,271K
+"Thursday, November 18, 2021",19:00,US,Initial Jobless Claims,,268K,260K,269K
+"Wednesday, November 24, 2021",19:00,US,Initial Jobless Claims,,199K,260K,270K
+"Wednesday, November 24, 2021",20:30,US,Core PCE Price Index (MoM) (Oct),,0.4%,0.4%,0.2%
+"Wednesday, November 24, 2021",20:30,US,Core PCE Price Index (YoY) (Oct),,4.1%,4.1%,3.7%
+"Thursday, December 2, 2021",19:00,US,Initial Jobless Claims,,222K,240K,194K
+"Friday, December 3, 2021",19:00,US,Nonfarm Payrolls (Nov),,210K,550K,546K
+"Friday, December 3, 2021",19:00,US,Unemployment Rate (Nov),,4.2%,4.5%,4.6%
+"Thursday, December 9, 2021",19:00,US,Initial Jobless Claims,,184K,215K,227K
+"Friday, December 10, 2021",19:00,US,CPI (MoM) (Nov),,0.8%,0.7%,0.9%
+"Friday, December 10, 2021",19:00,US,Core CPI (MoM) (Nov),,0.5%,0.5%,0.6%
+"Friday, December 10, 2021",19:00,US,CPI (YoY) (Nov),,6.8%,6.8%,6.2%
+"Thursday, December 16, 2021",00:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, December 16, 2021",19:00,US,Initial Jobless Claims,,206K,200K,188K
+"Thursday, December 23, 2021",19:00,US,Core PCE Price Index (MoM) (Nov),,0.5%,0.4%,0.5%
+"Thursday, December 23, 2021",19:00,US,Core PCE Price Index (YoY) (Nov),,4.7%,4.5%,4.2%
+"Thursday, December 23, 2021",19:00,US,Initial Jobless Claims,,205K,205K,205K
+"Thursday, December 30, 2021",19:00,US,Initial Jobless Claims,,198K,208K,206K
+"Thursday, January 6, 2022",19:00,US,Initial Jobless Claims,,207K,197K,200K
+"Friday, January 7, 2022",19:00,US,Nonfarm Payrolls (Dec),,199K,400K,249K
+"Friday, January 7, 2022",19:00,US,Unemployment Rate (Dec),,3.9%,4.1%,4.2%
+"Wednesday, January 12, 2022",19:00,US,CPI (MoM) (Dec),,0.5%,0.4%,0.8%
+"Wednesday, January 12, 2022",19:00,US,Core CPI (MoM) (Dec),,0.6%,0.5%,0.5%
+"Wednesday, January 12, 2022",19:00,US,CPI (YoY) (Dec),,7.0%,7.0%,6.8%
+"Thursday, January 13, 2022",19:00,US,Initial Jobless Claims,,230K,200K,207K
+"Thursday, January 20, 2022",19:00,US,Initial Jobless Claims,,286K,220K,231K
+"Thursday, January 27, 2022",00:30,US,Fed Interest Rate Decision,,0.25%,0.25%,0.25%
+"Thursday, January 27, 2022",19:00,US,Initial Jobless Claims,,260K,260K,290K
+"Friday, January 28, 2022",19:00,US,Core PCE Price Index (MoM) (Dec),,0.5%,0.5%,0.5%
+"Friday, January 28, 2022",19:00,US,Core PCE Price Index (YoY) (Dec),,4.9%,4.8%,4.7%
+"Thursday, February 3, 2022",19:00,US,Initial Jobless Claims,,238K,245K,261K
+"Friday, February 4, 2022",19:00,US,Nonfarm Payrolls (Jan),,467K,150K,510K
+"Friday, February 4, 2022",19:00,US,Unemployment Rate (Jan),,4.0%,3.9%,3.9%
+"Thursday, February 10, 2022",19:00,US,CPI (MoM) (Jan),,0.6%,0.5%,0.6%
+"Thursday, February 10, 2022",19:00,US,Core CPI (MoM) (Jan),,0.6%,0.5%,0.6%
+"Thursday, February 10, 2022",19:00,US,CPI (YoY) (Jan),,7.5%,7.3%,7.0%
+"Thursday, February 10, 2022",19:00,US,Initial Jobless Claims,,223K,230K,239K
+"Thursday, February 17, 2022",19:00,US,Initial Jobless Claims,,248K,219K,225K
+"Thursday, February 24, 2022",19:00,US,Initial Jobless Claims,,232K,235K,249K
+"Friday, February 25, 2022",19:00,US,Core PCE Price Index (MoM) (Jan),,0.5%,0.5%,0.5%
+"Friday, February 25, 2022",19:00,US,Core PCE Price Index (YoY) (Jan),,5.2%,5.1%,4.9%
+"Thursday, March 3, 2022",19:00,US,Initial Jobless Claims,,215K,226K,233K
+"Friday, March 4, 2022",19:00,US,Unemployment Rate (Feb),,3.8%,3.9%,4.0%
+"Friday, March 4, 2022",19:00,US,Nonfarm Payrolls (Feb),,678K,400K,481K
+"Thursday, March 10, 2022",19:00,US,CPI (MoM) (Feb),,0.8%,0.8%,0.6%
+"Thursday, March 10, 2022",19:00,US,Core CPI (MoM) (Feb),,0.5%,0.5%,0.6%
+"Thursday, March 10, 2022",19:00,US,CPI (YoY) (Feb),,7.9%,7.9%,7.5%
+"Thursday, March 10, 2022",19:00,US,Initial Jobless Claims,,227K,217K,216K
+"Wednesday, March 16, 2022",23:30,US,Fed Interest Rate Decision,,0.50%,0.50%,0.25%
+"Thursday, March 17, 2022",18:00,US,Initial Jobless Claims,,214K,220K,229K
+"Thursday, March 24, 2022",18:00,US,Initial Jobless Claims,,187K,212K,215K
+"Thursday, March 31, 2022",18:00,US,Core PCE Price Index (MoM) (Feb),,0.4%,0.4%,0.5%
+"Thursday, March 31, 2022",18:00,US,Core PCE Price Index (YoY) (Feb),,5.4%,5.5%,5.2%
+"Thursday, March 31, 2022",18:00,US,Initial Jobless Claims,,202K,197K,188K
+"Friday, April 1, 2022",18:00,US,Nonfarm Payrolls (Mar),,431K,490K,750K
+"Friday, April 1, 2022",18:00,US,Unemployment Rate (Mar),,3.6%,3.7%,3.8%
+"Thursday, April 7, 2022",18:00,US,Initial Jobless Claims,,166K,200K,171K
+"Tuesday, April 12, 2022",18:00,US,CPI (MoM) (Mar),,1.2%,1.2%,0.8%
+"Tuesday, April 12, 2022",18:00,US,CPI (YoY) (Mar),,8.5%,8.4%,7.9%
+"Tuesday, April 12, 2022",18:00,US,Core CPI (MoM) (Mar),,0.3%,0.5%,0.5%
+"Thursday, April 14, 2022",18:00,US,Initial Jobless Claims,,185K,171K,167K
+"Thursday, April 21, 2022",18:00,US,Initial Jobless Claims,,184K,180K,186K
+"Thursday, April 28, 2022",18:00,US,Initial Jobless Claims,,180K,180K,185K
+"Friday, April 29, 2022",18:00,US,Core PCE Price Index (MoM) (Mar),,0.3%,0.3%,0.3%
+"Friday, April 29, 2022",18:00,US,Core PCE Price Index (YoY) (Mar),,5.2%,5.3%,5.3%
+"Wednesday, May 4, 2022",23:30,US,Fed Interest Rate Decision,,1.00%,1.00%,0.50%
+"Thursday, May 5, 2022",18:00,US,Initial Jobless Claims,,200K,182K,181K
+"Friday, May 6, 2022",18:00,US,Nonfarm Payrolls (Apr),,428K,391K,428K
+"Friday, May 6, 2022",18:00,US,Unemployment Rate (Apr),,3.6%,3.5%,3.6%
+"Wednesday, May 11, 2022",18:00,US,CPI (MoM) (Apr),,0.3%,0.2%,1.2%
+"Wednesday, May 11, 2022",18:00,US,Core CPI (MoM) (Apr),,0.6%,0.4%,0.3%
+"Wednesday, May 11, 2022",18:00,US,CPI (YoY) (Apr),,8.3%,8.1%,8.5%
+"Thursday, May 12, 2022",18:00,US,Initial Jobless Claims,,203K,195K,202K
+"Thursday, May 19, 2022",18:00,US,Initial Jobless Claims,,218K,200K,197K
+"Thursday, May 26, 2022",18:00,US,Initial Jobless Claims,,210K,215K,218K
+"Friday, May 27, 2022",18:00,US,Core PCE Price Index (MoM) (Apr),,0.3%,0.3%,0.3%
+"Friday, May 27, 2022",18:00,US,Core PCE Price Index (YoY) (Apr),,4.9%,4.9%,5.2%
+"Thursday, June 2, 2022",18:00,US,Initial Jobless Claims,,200K,210K,211K
+"Friday, June 3, 2022",18:00,US,Nonfarm Payrolls (May),,390K,325K,436K
+"Friday, June 3, 2022",18:00,US,Unemployment Rate (May),,3.6%,3.5%,3.6%
+"Thursday, June 9, 2022",18:00,US,Initial Jobless Claims,,229K,210K,202K
+"Friday, June 10, 2022",18:00,US,CPI (MoM) (May),,1.0%,0.7%,0.3%
+"Friday, June 10, 2022",18:00,US,Core CPI (MoM) (May),,0.6%,0.5%,0.6%
+"Friday, June 10, 2022",18:00,US,CPI (YoY) (May),,8.6%,8.3%,8.3%
+"Wednesday, June 15, 2022",23:30,US,Fed Interest Rate Decision,,1.75%,1.50%,1.00%
+"Thursday, June 16, 2022",18:00,US,Initial Jobless Claims,,229K,215K,232K
+"Thursday, June 23, 2022",18:00,US,Initial Jobless Claims,,229K,227K,231K
+"Thursday, June 30, 2022",18:00,US,Core PCE Price Index (MoM) (May),,0.3%,0.4%,0.3%
+"Thursday, June 30, 2022",18:00,US,Core PCE Price Index (YoY) (May),,4.7%,4.8%,4.9%
+"Thursday, June 30, 2022",18:00,US,Initial Jobless Claims,,231K,228K,233K
+"Thursday, July 7, 2022",18:00,US,Initial Jobless Claims,,235K,230K,231K
+"Friday, July 8, 2022",18:00,US,Nonfarm Payrolls (Jun),,372K,268K,384K
+"Friday, July 8, 2022",18:00,US,Unemployment Rate (Jun),,3.6%,3.6%,3.6%
+"Wednesday, July 13, 2022",18:00,US,CPI (MoM) (Jun),,1.3%,1.1%,1.0%
+"Wednesday, July 13, 2022",18:00,US,Core CPI (MoM) (Jun),,0.7%,0.6%,0.6%
+"Wednesday, July 13, 2022",18:00,US,CPI (YoY) (Jun),,9.1%,8.8%,8.6%
+"Thursday, July 14, 2022",18:00,US,Initial Jobless Claims,,244K,235K,235K
+"Thursday, July 21, 2022",18:00,US,Initial Jobless Claims,,251K,240K,244K
+"Wednesday, July 27, 2022",23:30,US,Fed Interest Rate Decision,,2.50%,2.50%,1.75%
+"Thursday, July 28, 2022",18:00,US,Initial Jobless Claims,,256K,253K,261K
+"Friday, July 29, 2022",18:00,US,Core PCE Price Index (MoM) (Jun),,0.6%,0.5%,0.3%
+"Friday, July 29, 2022",18:00,US,Core PCE Price Index (YoY) (Jun),,4.8%,4.7%,4.7%
+"Thursday, August 4, 2022",18:00,US,Initial Jobless Claims,,260K,259K,254K
+"Friday, August 5, 2022",18:00,US,Nonfarm Payrolls (Jul),,528K,250K,398K
+"Friday, August 5, 2022",18:00,US,Unemployment Rate (Jul),,3.5%,3.6%,3.6%
+"Wednesday, August 10, 2022",18:00,US,Core CPI (MoM) (Jul),,0.3%,0.5%,0.7%
+"Wednesday, August 10, 2022",18:00,US,CPI (YoY) (Jul),,8.5%,8.7%,9.1%
+"Wednesday, August 10, 2022",18:00,US,CPI (MoM) (Jul),,0.0%,0.2%,1.3%
+"Thursday, August 11, 2022",18:00,US,Initial Jobless Claims,,262K,263K,248K
+"Thursday, August 18, 2022",18:00,US,Initial Jobless Claims,,250K,265K,252K
+"Thursday, August 25, 2022",18:00,US,Initial Jobless Claims,,243K,253K,245K
+"Friday, August 26, 2022",18:00,US,Core PCE Price Index (MoM) (Jul),,0.1%,0.3%,0.6%
+"Friday, August 26, 2022",18:00,US,Core PCE Price Index (YoY) (Jul),,4.6%,4.7%,4.8%
+"Thursday, September 1, 2022",18:00,US,Initial Jobless Claims,,232K,248K,237K
+"Friday, September 2, 2022",18:00,US,Nonfarm Payrolls (Aug),,315K,300K,526K
+"Friday, September 2, 2022",18:00,US,Unemployment Rate (Aug),,3.7%,3.5%,3.5%
+"Thursday, September 8, 2022",18:00,US,Initial Jobless Claims,,222K,240K,228K
+"Tuesday, September 13, 2022",18:00,US,CPI (MoM) (Aug),,0.1%,-0.1%,0.0%
+"Tuesday, September 13, 2022",18:00,US,CPI (YoY) (Aug),,8.3%,8.1%,8.5%
+"Tuesday, September 13, 2022",18:00,US,Core CPI (MoM) (Aug),,0.6%,0.3%,0.3%
+"Thursday, September 15, 2022",18:00,US,Initial Jobless Claims,,213K,226K,218K
+"Wednesday, September 21, 2022",23:30,US,Fed Interest Rate Decision,,3.25%,3.25%,2.50%
+"Thursday, September 22, 2022",18:00,US,Initial Jobless Claims,,213K,218K,208K
+"Thursday, September 29, 2022",18:00,US,Initial Jobless Claims,,193K,215K,209K
+"Friday, September 30, 2022",18:00,US,Core PCE Price Index (MoM) (Aug),,0.6%,0.5%,0.1%
+"Friday, September 30, 2022",18:00,US,Core PCE Price Index (YoY) (Aug),,4.9%,4.7%,4.7%
+"Thursday, October 6, 2022",18:00,US,Initial Jobless Claims,,219K,203K,190K
+"Friday, October 7, 2022",18:00,US,Nonfarm Payrolls (Sep),,263K,250K,315K
+"Friday, October 7, 2022",18:00,US,Unemployment Rate (Sep),,3.5%,3.7%,3.7%
+"Thursday, October 13, 2022",18:00,US,CPI (MoM) (Sep),,0.4%,0.2%,0.2%
+"Thursday, October 13, 2022",18:00,US,Core CPI (MoM) (Sep),,0.6%,0.5%,0.6%
+"Thursday, October 13, 2022",18:00,US,CPI (YoY) (Sep),,8.2%,8.1%,8.2%
+"Thursday, October 13, 2022",18:00,US,Initial Jobless Claims,,228K,225K,219K
+"Thursday, October 20, 2022",18:00,US,Initial Jobless Claims,,214K,230K,226K
+"Thursday, October 27, 2022",18:00,US,Initial Jobless Claims,,217K,220K,214K
+"Friday, October 28, 2022",18:00,US,Core PCE Price Index (YoY) (Sep),,5.1%,5.2%,4.9%
+"Friday, October 28, 2022",18:00,US,Core PCE Price Index (MoM) (Sep),,0.5%,0.5%,0.5%
+"Wednesday, November 2, 2022",23:30,US,Fed Interest Rate Decision,,4.00%,4.00%,3.25%
+"Thursday, November 3, 2022",18:00,US,Initial Jobless Claims,,217K,220K,218K
+"Friday, November 4, 2022",18:00,US,Nonfarm Payrolls (Oct),,261K,200K,315K
+"Friday, November 4, 2022",18:00,US,Unemployment Rate (Oct),,3.7%,3.6%,3.5%
+"Thursday, November 10, 2022",19:00,US,CPI (MoM) (Oct),,0.4%,0.6%,0.4%
+"Thursday, November 10, 2022",19:00,US,Core CPI (MoM) (Oct),,0.3%,0.5%,0.6%
+"Thursday, November 10, 2022",19:00,US,CPI (YoY) (Oct),,7.7%,8.0%,8.2%
+"Thursday, November 10, 2022",19:00,US,Initial Jobless Claims,,225K,220K,218K
+"Thursday, November 17, 2022",19:00,US,Initial Jobless Claims,,222K,225K,226K
+"Wednesday, November 23, 2022",19:00,US,Initial Jobless Claims,,240K,225K,223K
+"Thursday, December 1, 2022",19:00,US,Core PCE Price Index (MoM) (Oct),,0.2%,0.3%,0.5%
+"Thursday, December 1, 2022",19:00,US,Core PCE Price Index (YoY) (Oct),,5.0%,5.0%,5.2%
+"Thursday, December 1, 2022",19:00,US,Initial Jobless Claims,,225K,235K,241K
+"Friday, December 2, 2022",18:00,US,Unemployment Rate (Nov),,3.7%,3.7%,3.7%
+"Friday, December 2, 2022",19:00,US,Nonfarm Payrolls (Nov),,263K,200K,284K
+"Thursday, December 8, 2022",19:00,US,Initial Jobless Claims,,230K,230K,226K
+"Tuesday, December 13, 2022",19:00,US,Core CPI (MoM) (Nov),,0.2%,0.3%,0.3%
+"Tuesday, December 13, 2022",19:00,US,CPI (MoM) (Nov),,0.1%,0.3%,0.5%
+"Tuesday, December 13, 2022",19:00,US,CPI (YoY) (Nov),,7.1%,7.3%,7.8%
+"Thursday, December 15, 2022",00:30,US,Fed Interest Rate Decision,,4.50%,4.50%,4.00%
+"Thursday, December 15, 2022",19:00,US,Initial Jobless Claims,,211K,230K,231K
+"Thursday, December 22, 2022",19:00,US,Initial Jobless Claims,,216K,222K,214K
+"Friday, December 23, 2022",19:00,US,Core PCE Price Index (MoM) (Nov),,0.2%,0.2%,0.3%
+"Friday, December 23, 2022",19:00,US,Core PCE Price Index (YoY) (Nov),,4.7%,4.7%,5.0%
+"Thursday, December 29, 2022",19:00,US,Initial Jobless Claims,,225K,225K,216K
+"Thursday, January 5, 2023",19:00,US,Initial Jobless Claims,,204K,225K,223K
+"Friday, January 6, 2023",19:00,US,Nonfarm Payrolls (Dec),,223K,200K,256K
+"Friday, January 6, 2023",19:00,US,Unemployment Rate (Dec),,3.5%,3.7%,3.6%
+"Thursday, January 12, 2023",19:00,US,CPI (MoM) (Dec),,-0.1%,0.0%,0.2%
+"Thursday, January 12, 2023",19:00,US,Core CPI (MoM) (Dec),,0.3%,0.3%,0.3%
+"Thursday, January 12, 2023",19:00,US,CPI (YoY) (Dec),,6.5%,6.5%,7.1%
+"Thursday, January 12, 2023",19:00,US,Initial Jobless Claims,,205K,215K,206K
+"Thursday, January 19, 2023",19:00,US,Initial Jobless Claims,,190K,214K,205K
+"Thursday, January 26, 2023",19:00,US,Initial Jobless Claims,,186K,205K,192K
+"Friday, January 27, 2023",19:00,US,Core PCE Price Index (MoM) (Dec),,0.3%,0.3%,0.2%
+"Friday, January 27, 2023",19:00,US,Core PCE Price Index (YoY) (Dec),,4.4%,4.4%,4.7%
+"Thursday, February 2, 2023",00:30,US,Fed Interest Rate Decision,,4.75%,4.75%,4.50%
+"Thursday, February 2, 2023",19:00,US,Initial Jobless Claims,,183K,200K,186K
+"Friday, February 3, 2023",19:00,US,Nonfarm Payrolls (Jan),,517K,185K,260K
+"Friday, February 3, 2023",19:00,US,Unemployment Rate (Jan),,3.4%,3.6%,3.5%
+"Thursday, February 9, 2023",19:00,US,Initial Jobless Claims,,196K,190K,183K
+"Tuesday, February 14, 2023",19:00,US,CPI (MoM) (Jan),,0.5%,0.5%,0.1%
+"Tuesday, February 14, 2023",19:00,US,CPI (YoY) (Jan),,6.4%,6.2%,6.5%
+"Tuesday, February 14, 2023",19:00,US,Core CPI (MoM) (Jan),,0.4%,0.4%,0.4%
+"Thursday, February 16, 2023",19:00,US,Initial Jobless Claims,,194K,200K,195K
+"Thursday, February 23, 2023",19:00,US,Initial Jobless Claims,,192K,200K,195K
+"Friday, February 24, 2023",19:00,US,Core PCE Price Index (MoM) (Jan),,0.6%,0.4%,0.4%
+"Friday, February 24, 2023",19:00,US,Core PCE Price Index (YoY) (Jan),,4.7%,4.3%,4.6%
+"Thursday, March 2, 2023",19:00,US,Initial Jobless Claims,,190K,195K,192K
+"Thursday, March 9, 2023",19:00,US,Initial Jobless Claims,,211K,195K,190K
+"Friday, March 10, 2023",19:00,US,Unemployment Rate (Feb),,3.6%,3.4%,3.4%
+"Friday, March 10, 2023",19:00,US,Nonfarm Payrolls (Feb),,311K,205K,504K
+"Tuesday, March 14, 2023",18:00,US,Core CPI (MoM) (Feb),,0.5%,0.4%,0.4%
+"Tuesday, March 14, 2023",18:00,US,CPI (MoM) (Feb),,0.4%,0.4%,0.5%
+"Tuesday, March 14, 2023",18:00,US,CPI (YoY) (Feb),,6.0%,6.0%,6.4%
+"Thursday, March 16, 2023",18:00,US,Initial Jobless Claims,,192K,205K,212K
+"Wednesday, March 22, 2023",23:30,US,Fed Interest Rate Decision,,5.00%,5.00%,4.75%
+"Thursday, March 23, 2023",18:00,US,Initial Jobless Claims,,191K,197K,192K
+"Thursday, March 30, 2023",18:00,US,Initial Jobless Claims,,198K,196K,191K
+"Friday, March 31, 2023",18:00,US,Core PCE Price Index (YoY) (Feb),,4.6%,4.7%,4.7%
+"Friday, March 31, 2023",18:00,US,Core PCE Price Index (MoM) (Feb),,0.3%,0.4%,0.5%
+"Thursday, April 6, 2023",18:00,US,Initial Jobless Claims,,228K,200K,246K
+"Friday, April 7, 2023",18:00,US,Nonfarm Payrolls (Mar),,236K,239K,326K
+"Friday, April 7, 2023",18:00,US,Unemployment Rate (Mar),,3.5%,3.6%,3.6%
+"Wednesday, April 12, 2023",18:00,US,Core CPI (MoM) (Mar),,0.4%,0.4%,0.5%
+"Wednesday, April 12, 2023",18:00,US,CPI (MoM) (Mar),,0.1%,0.2%,0.4%
+"Wednesday, April 12, 2023",18:00,US,CPI (YoY) (Mar),,5.0%,5.2%,6.0%
+"Thursday, April 13, 2023",18:00,US,Initial Jobless Claims,,239K,232K,228K
+"Thursday, April 20, 2023",18:00,US,Initial Jobless Claims,,245K,240K,240K
+"Thursday, April 27, 2023",18:00,US,Initial Jobless Claims,,230K,248K,246K
+"Friday, April 28, 2023",18:00,US,Core PCE Price Index (MoM) (Mar),,0.3%,0.3%,0.3%
+"Friday, April 28, 2023",18:00,US,Core PCE Price Index (YoY) (Mar),,4.6%,4.5%,4.7%
+"Wednesday, May 3, 2023",23:30,US,Fed Interest Rate Decision,,5.25%,5.25%,5.00%
+"Thursday, May 4, 2023",18:00,US,Initial Jobless Claims,,242K,240K,229K
+"Friday, May 5, 2023",18:00,US,Nonfarm Payrolls (Apr),,253K,180K,165K
+"Friday, May 5, 2023",18:00,US,Unemployment Rate (Apr),,3.4%,3.6%,3.5%
+"Wednesday, May 10, 2023",18:00,US,CPI (MoM) (Apr),,0.4%,0.4%,0.1%
+"Wednesday, May 10, 2023",18:00,US,Core CPI (MoM) (Apr),,0.4%,0.4%,0.4%
+"Wednesday, May 10, 2023",18:00,US,CPI (YoY) (Apr),,4.9%,5.0%,5.0%
+"Thursday, May 11, 2023",18:00,US,Initial Jobless Claims,,264K,245K,242K
+"Thursday, May 18, 2023",18:00,US,Initial Jobless Claims,,242K,254K,264K
+"Thursday, May 25, 2023",18:00,US,Initial Jobless Claims,,229K,250K,225K
+"Friday, May 26, 2023",18:00,US,Core PCE Price Index (MoM) (Apr),,0.4%,0.3%,0.3%
+"Friday, May 26, 2023",18:00,US,Core PCE Price Index (YoY) (Apr),,4.7%,4.6%,4.6%
+"Thursday, June 1, 2023",18:00,US,Initial Jobless Claims,,232K,235K,230K
+"Friday, June 2, 2023",18:00,US,Nonfarm Payrolls (May),,339K,180K,294K
+"Friday, June 2, 2023",18:00,US,Unemployment Rate (May),,3.7%,3.5%,3.4%
+"Thursday, June 8, 2023",18:00,US,Initial Jobless Claims,,261K,235K,233K
+"Tuesday, June 13, 2023",18:00,US,CPI (MoM) (May),,0.1%,0.2%,0.4%
+"Tuesday, June 13, 2023",18:00,US,CPI (YoY) (May),,4.0%,4.1%,4.9%
+"Tuesday, June 13, 2023",18:00,US,Core CPI (MoM) (May),,0.4%,0.4%,0.4%
+"Wednesday, June 14, 2023",23:30,US,Fed Interest Rate Decision,,5.25%,5.25%,5.25%
+"Thursday, June 15, 2023",18:00,US,Initial Jobless Claims,,262K,250K,262K
+"Thursday, June 22, 2023",18:00,US,Initial Jobless Claims,,264K,260K,264K
+"Thursday, June 29, 2023",18:00,US,Initial Jobless Claims,,239K,266K,265K
+"Friday, June 30, 2023",18:00,US,Core PCE Price Index (MoM) (May),,0.3%,0.3%,0.4%
+"Friday, June 30, 2023",18:00,US,Core PCE Price Index (YoY) (May),,4.6%,4.7%,4.7%
+"Thursday, July 6, 2023",18:00,US,Initial Jobless Claims,,248K,245K,236K
+"Friday, July 7, 2023",18:00,US,Nonfarm Payrolls (Jun),,209K,225K,306K
+"Friday, July 7, 2023",18:00,US,Unemployment Rate (Jun),,3.6%,3.6%,3.7%
+"Wednesday, July 12, 2023",18:00,US,CPI (MoM) (Jun),,0.2%,0.3%,0.1%
+"Wednesday, July 12, 2023",18:00,US,CPI (YoY) (Jun),,3.0%,3.1%,4.0%
+"Wednesday, July 12, 2023",18:00,US,Core CPI (MoM) (Jun),,0.2%,0.3%,0.4%
+"Thursday, July 13, 2023",18:00,US,Initial Jobless Claims,,237K,250K,249K
+"Thursday, July 20, 2023",18:00,US,Initial Jobless Claims,,228K,242K,237K
+"Wednesday, July 26, 2023",23:30,US,Fed Interest Rate Decision,,5.50%,5.50%,5.25%
+"Thursday, July 27, 2023",18:00,US,Initial Jobless Claims,,221K,235K,228K
+"Friday, July 28, 2023",18:00,US,Core PCE Price Index (MoM) (Jun),,0.2%,0.2%,0.3%
+"Friday, July 28, 2023",18:00,US,Core PCE Price Index (YoY) (Jun),,4.1%,4.2%,4.6%
+"Thursday, August 3, 2023",18:00,US,Initial Jobless Claims,,227K,227K,221K
+"Friday, August 4, 2023",18:00,US,Nonfarm Payrolls (Jul),,187K,200K,185K
+"Friday, August 4, 2023",18:00,US,Unemployment Rate (Jul),,3.5%,3.6%,3.6%
+"Thursday, August 10, 2023",18:00,US,CPI (MoM) (Jul),,0.2%,0.2%,0.2%
+"Thursday, August 10, 2023",18:00,US,Core CPI (MoM) (Jul),,0.2%,0.2%,0.2%
+"Thursday, August 10, 2023",18:00,US,CPI (YoY) (Jul),,3.2%,3.3%,3.0%
+"Thursday, August 10, 2023",18:00,US,Initial Jobless Claims,,248K,230K,227K
+"Thursday, August 17, 2023",18:00,US,Initial Jobless Claims,,239K,240K,250K
+"Thursday, August 24, 2023",18:00,US,Initial Jobless Claims,,230K,240K,240K
+"Thursday, August 31, 2023",18:00,US,Core PCE Price Index (MoM) (Jul),,0.2%,0.2%,0.2%
+"Thursday, August 31, 2023",18:00,US,Core PCE Price Index (YoY) (Jul),,4.2%,4.2%,4.1%
+"Thursday, August 31, 2023",18:00,US,Initial Jobless Claims,,228K,235K,232K
+"Friday, September 1, 2023",18:00,US,Nonfarm Payrolls (Aug),,187K,170K,157K
+"Friday, September 1, 2023",18:00,US,Unemployment Rate (Aug),,3.8%,3.5%,3.5%
+"Thursday, September 7, 2023",18:00,US,Initial Jobless Claims,,216K,234K,229K
+"Wednesday, September 13, 2023",18:00,US,CPI (MoM) (Aug),,0.6%,0.6%,0.2%
+"Wednesday, September 13, 2023",18:00,US,CPI (YoY) (Aug),,3.7%,3.6%,3.2%
+"Wednesday, September 13, 2023",18:00,US,Core CPI (MoM) (Aug),,0.3%,0.2%,0.2%
+"Thursday, September 14, 2023",18:00,US,Initial Jobless Claims,,220K,225K,217K
+"Wednesday, September 20, 2023",23:30,US,Fed Interest Rate Decision,,5.50%,5.50%,5.50%
+"Thursday, September 21, 2023",18:00,US,Initial Jobless Claims,,201K,225K,221K
+"Thursday, September 28, 2023",18:00,US,Initial Jobless Claims,,204K,215K,202K
+"Friday, September 29, 2023",18:00,US,Core PCE Price Index (MoM) (Aug),,0.1%,0.2%,0.2%
+"Friday, September 29, 2023",18:00,US,Core PCE Price Index (YoY) (Aug),,3.9%,3.9%,4.3%
+"Thursday, October 5, 2023",18:00,US,Initial Jobless Claims,,207K,210K,205K
+"Friday, October 6, 2023",18:00,US,Nonfarm Payrolls (Sep),,336K,170K,227K
+"Friday, October 6, 2023",18:00,US,Unemployment Rate (Sep),,3.8%,3.7%,3.8%
+"Thursday, October 12, 2023",18:00,US,CPI (MoM) (Sep),,0.4%,0.3%,0.5%
+"Thursday, October 12, 2023",18:00,US,Core CPI (MoM) (Sep),,0.3%,0.3%,0.3%
+"Thursday, October 12, 2023",18:00,US,CPI (YoY) (Sep),,3.7%,3.6%,3.7%
+"Thursday, October 12, 2023",18:00,US,Initial Jobless Claims,,209K,210K,209K
+"Thursday, October 19, 2023",18:00,US,Initial Jobless Claims,,198K,212K,211K
+"Thursday, October 26, 2023",18:00,US,Initial Jobless Claims,,210K,208K,200K
+"Friday, October 27, 2023",18:00,US,Core PCE Price Index (MoM) (Sep),,0.3%,0.3%,0.1%
+"Friday, October 27, 2023",18:00,US,Core PCE Price Index (YoY) (Sep),,3.7%,3.7%,3.8%
+"Wednesday, November 1, 2023",23:30,US,Fed Interest Rate Decision,,5.50%,5.50%,5.50%
+"Thursday, November 2, 2023",18:00,US,Initial Jobless Claims,,217K,210K,212K
+"Friday, November 3, 2023",18:00,US,Nonfarm Payrolls (Oct),,150K,180K,297K
+"Friday, November 3, 2023",18:00,US,Unemployment Rate (Oct),,3.9%,3.8%,3.8%
+"Thursday, November 9, 2023",19:00,US,Initial Jobless Claims,,217K,215K,220K
+"Tuesday, November 14, 2023",19:00,US,CPI (MoM) (Oct),,0.0%,0.1%,0.4%
+"Tuesday, November 14, 2023",19:00,US,CPI (YoY) (Oct),,3.2%,3.3%,3.7%
+"Tuesday, November 14, 2023",19:00,US,Core CPI (MoM) (Oct),,0.2%,0.3%,0.3%
+"Thursday, November 16, 2023",19:00,US,Initial Jobless Claims,,231K,220K,218K
+"Wednesday, November 22, 2023",19:00,US,Initial Jobless Claims,,209K,225K,233K
+"Thursday, November 30, 2023",19:00,US,Core PCE Price Index (MoM) (Oct),,0.2%,0.2%,0.3%
+"Thursday, November 30, 2023",19:00,US,Core PCE Price Index (YoY) (Oct),,3.5%,3.5%,3.7%
+"Thursday, November 30, 2023",19:00,US,Initial Jobless Claims,,218K,220K,211K
+"Thursday, December 7, 2023",19:00,US,Initial Jobless Claims,,220K,222K,219K
+"Friday, December 8, 2023",19:00,US,Nonfarm Payrolls (Nov),,199K,180K,150K
+"Friday, December 8, 2023",19:00,US,Unemployment Rate (Nov),,3.7%,3.9%,3.9%
+"Tuesday, December 12, 2023",19:00,US,CPI (MoM) (Nov),,0.1%,0.0%,0.1%
+"Tuesday, December 12, 2023",19:00,US,Core CPI (MoM) (Nov),,0.3%,0.3%,0.2%
+"Tuesday, December 12, 2023",19:00,US,CPI (YoY) (Nov),,3.1%,3.1%,3.2%
+"Thursday, December 14, 2023",00:30,US,Fed Interest Rate Decision,,5.50%,5.50%,5.50%
+"Thursday, December 14, 2023",19:00,US,Initial Jobless Claims,,202K,220K,221K
+"Thursday, December 21, 2023",19:00,US,Initial Jobless Claims,,205K,214K,203K
+"Friday, December 22, 2023",19:00,US,Core PCE Price Index (MoM) (Nov),,0.1%,0.2%,0.1%
+"Friday, December 22, 2023",19:00,US,Core PCE Price Index (YoY) (Nov),,3.2%,3.3%,3.4%
+"Thursday, December 28, 2023",19:00,US,Initial Jobless Claims,,218K,210K,206K
+"Thursday, January 4, 2024",19:00,US,Initial Jobless Claims,,202K,216K,220K
+"Friday, January 5, 2024",19:00,US,Nonfarm Payrolls (Dec),,216K,170K,182K
+"Friday, January 5, 2024",19:00,US,Unemployment Rate (Dec),,3.7%,3.8%,3.7%
+"Thursday, January 11, 2024",19:00,US,CPI (MoM) (Dec),,0.3%,0.2%,0.2%
+"Thursday, January 11, 2024",19:00,US,CPI (YoY) (Dec),,3.4%,3.2%,3.1%
+"Thursday, January 11, 2024",19:00,US,Core CPI (MoM) (Dec),,0.3%,0.3%,0.3%
+"Thursday, January 11, 2024",19:00,US,Initial Jobless Claims,,202K,210K,203K
+"Thursday, January 18, 2024",19:00,US,Initial Jobless Claims,,187K,207K,203K
+"Thursday, January 25, 2024",19:00,US,Initial Jobless Claims,,214K,200K,189K
+"Friday, January 26, 2024",19:00,US,Core PCE Price Index (MoM) (Dec),,0.2%,0.2%,0.1%
+"Friday, January 26, 2024",19:00,US,Core PCE Price Index (YoY) (Dec),,2.9%,3.0%,3.2%
+"Thursday, February 1, 2024",00:30,US,Fed Interest Rate Decision,,5.50%,5.50%,5.50%
+"Thursday, February 1, 2024",19:00,US,Initial Jobless Claims,,224K,213K,215K
+"Friday, February 2, 2024",19:00,US,Nonfarm Payrolls (Jan),,353K,187K,290K
+"Friday, February 2, 2024",19:00,US,Unemployment Rate (Jan),,3.7%,3.8%,3.7%
+"Thursday, February 8, 2024",19:00,US,Initial Jobless Claims,,218K,221K,227K
+"Tuesday, February 13, 2024",19:00,US,CPI (MoM) (Jan),,0.3%,0.2%,0.2%
+"Tuesday, February 13, 2024",19:00,US,Core CPI (MoM) (Jan),,0.4%,0.3%,0.3%
+"Tuesday, February 13, 2024",19:00,US,CPI (YoY) (Jan),,3.1%,2.9%,3.4%
+"Thursday, February 15, 2024",19:00,US,Initial Jobless Claims,,212K,219K,220K
+"Thursday, February 22, 2024",19:00,US,Initial Jobless Claims,,201K,217K,213K
+"Thursday, February 29, 2024",19:00,US,Core PCE Price Index (YoY) (Jan),,2.8%,2.8%,2.9%
+"Thursday, February 29, 2024",19:00,US,Core PCE Price Index (MoM) (Jan),,0.4%,0.4%,0.1%
+"Thursday, February 29, 2024",19:00,US,Initial Jobless Claims,,215K,209K,202K
+"Thursday, March 7, 2024",19:00,US,Initial Jobless Claims,,217K,217K,217K
+"Friday, March 8, 2024",19:00,US,Nonfarm Payrolls (Feb),,275K,198K,256K
+"Friday, March 8, 2024",19:00,US,Unemployment Rate (Feb),,3.9%,3.7%,3.7%
+"Tuesday, March 12, 2024",18:00,US,CPI (MoM) (Feb),,0.4%,0.4%,0.3%
+"Tuesday, March 12, 2024",18:00,US,Core CPI (MoM) (Feb),,0.4%,0.3%,0.4%
+"Tuesday, March 12, 2024",18:00,US,CPI (YoY) (Feb),,3.2%,3.1%,3.1%
+"Thursday, March 14, 2024",18:00,US,Initial Jobless Claims,,209K,218K,210K
+"Wednesday, March 20, 2024",23:30,US,Fed Interest Rate Decision,,5.50%,5.50%,5.50%
+"Thursday, March 21, 2024",18:00,US,Initial Jobless Claims,,210K,212K,212K
+"Thursday, March 28, 2024",18:00,US,Initial Jobless Claims,,210K,212K,212K
+"Friday, March 29, 2024",18:00,US,Core PCE Price Index (MoM) (Feb),,0.3%,0.3%,0.5%
+"Friday, March 29, 2024",18:00,US,Core PCE Price Index (YoY) (Feb),,2.8%,2.8%,2.9%
+"Thursday, April 4, 2024",18:00,US,Initial Jobless Claims,,221K,213K,212K
+"Friday, April 5, 2024",18:00,US,Nonfarm Payrolls (Mar),,303K,212K,236K
+"Friday, April 5, 2024",18:00,US,Unemployment Rate (Mar),,3.8%,3.9%,3.9%
+"Wednesday, April 10, 2024",18:00,US,CPI (MoM) (Mar),,0.4%,0.3%,0.4%
+"Wednesday, April 10, 2024",18:00,US,CPI (YoY) (Mar),,3.5%,3.4%,3.2%
+"Wednesday, April 10, 2024",18:00,US,Core CPI (MoM) (Mar),,0.4%,0.3%,0.4%
+"Thursday, April 11, 2024",18:00,US,Initial Jobless Claims,,211K,216K,222K
+"Thursday, April 18, 2024",18:00,US,Initial Jobless Claims,,212K,215K,212K
+"Thursday, April 25, 2024",18:00,US,Initial Jobless Claims,,207K,214K,212K
+"Friday, April 26, 2024",18:00,US,Core PCE Price Index (MoM) (Mar),,0.3%,0.3%,0.3%
+"Friday, April 26, 2024",18:00,US,Core PCE Price Index (YoY) (Mar),,2.8%,2.6%,2.8%
+"Wednesday, May 1, 2024",23:30,US,Fed Interest Rate Decision,,5.50%,5.50%,5.50%
+"Thursday, May 2, 2024",18:00,US,Initial Jobless Claims,,208K,212K,208K
+"Friday, May 3, 2024",18:00,US,Nonfarm Payrolls (Apr),,175K,238K,310K
+"Friday, May 3, 2024",18:00,US,Unemployment Rate (Apr),,3.9%,3.8%,3.8%
+"Thursday, May 9, 2024",18:00,US,Initial Jobless Claims,,231K,212K,209K
+"Wednesday, May 15, 2024",18:00,US,CPI (MoM) (Apr),,0.3%,0.4%,0.4%
+"Wednesday, May 15, 2024",18:00,US,Core CPI (MoM) (Apr),,0.3%,0.3%,0.4%
+"Wednesday, May 15, 2024",18:00,US,CPI (YoY) (Apr),,3.4%,3.4%,3.5%
+"Thursday, May 16, 2024",18:00,US,Initial Jobless Claims,,222K,219K,232K
+"Thursday, May 23, 2024",18:00,US,Initial Jobless Claims,,215K,220K,223K
+"Thursday, May 30, 2024",18:00,US,Initial Jobless Claims,,219K,218K,216K
+"Friday, May 31, 2024",18:00,US,Core PCE Price Index (MoM) (Apr),,0.2%,0.3%,0.3%
+"Friday, May 31, 2024",18:00,US,Core PCE Price Index (YoY) (Apr),,2.8%,2.8%,2.8%
+"Thursday, June 6, 2024",18:00,US,Initial Jobless Claims,,229K,220K,221K
+"Friday, June 7, 2024",18:00,US,Nonfarm Payrolls (May),,272K,182K,108K
+"Friday, June 7, 2024",18:00,US,Unemployment Rate (May),,4.0%,3.9%,3.9%
+"Wednesday, June 12, 2024",18:00,US,CPI (MoM) (May),,0.0%,0.1%,0.3%
+"Wednesday, June 12, 2024",18:00,US,CPI (YoY) (May),,3.3%,3.4%,3.4%
+"Wednesday, June 12, 2024",18:00,US,Core CPI (MoM) (May),,0.2%,0.3%,0.3%
+"Wednesday, June 12, 2024",23:30,US,Fed Interest Rate Decision,,5.50%,5.50%,5.50%
+"Thursday, June 13, 2024",18:00,US,Initial Jobless Claims,,242K,225K,229K
+"Thursday, June 20, 2024",18:00,US,Initial Jobless Claims,,238K,235K,243K
+"Thursday, June 27, 2024",18:00,US,Initial Jobless Claims,,233K,236K,239K
+"Friday, June 28, 2024",18:00,US,Core PCE Price Index (MoM) (May),,0.1%,0.1%,0.3%
+"Friday, June 28, 2024",18:00,US,Core PCE Price Index (YoY) (May),,2.6%,2.6%,2.8%
+"Wednesday, July 3, 2024",18:00,US,Initial Jobless Claims,,238K,234K,234K
+"Friday, July 5, 2024",18:00,US,Nonfarm Payrolls (Jun),,206K,191K,216K
+"Friday, July 5, 2024",18:00,US,Unemployment Rate (Jun),,4.1%,4.0%,4.0%
+"Thursday, July 11, 2024",18:00,US,CPI (MoM) (Jun),,-0.1%,0.1%,0.0%
+"Thursday, July 11, 2024",18:00,US,CPI (YoY) (Jun),,3.0%,3.1%,3.3%
+"Thursday, July 11, 2024",18:00,US,Core CPI (MoM) (Jun),,0.1%,0.2%,0.2%
+"Thursday, July 11, 2024",18:00,US,Initial Jobless Claims,,222K,236K,239K
+"Thursday, July 18, 2024",18:00,US,Initial Jobless Claims,,243K,229K,223K
+"Thursday, July 25, 2024",18:00,US,Initial Jobless Claims,,235K,237K,245K
+"Friday, July 26, 2024",18:00,US,Core PCE Price Index (MoM) (Jun),,0.2%,0.2%,0.1%
+"Friday, July 26, 2024",18:00,US,Core PCE Price Index (YoY) (Jun),,2.6%,2.5%,2.6%
+"Wednesday, July 31, 2024",23:30,US,Fed Interest Rate Decision,,5.50%,5.50%,5.50%
+"Thursday, August 1, 2024",18:00,US,Initial Jobless Claims,,249K,236K,235K
+"Friday, August 2, 2024",18:00,US,Nonfarm Payrolls (Jul),,114K,176K,118K
+"Friday, August 2, 2024",18:00,US,Unemployment Rate (Jul),,4.3%,4.1%,4.1%
+"Thursday, August 8, 2024",18:00,US,Initial Jobless Claims,,233K,241K,250K
+"Wednesday, August 14, 2024",18:00,US,CPI (MoM) (Jul),,0.2%,0.2%,-0.1%
+"Wednesday, August 14, 2024",18:00,US,Core CPI (MoM) (Jul),,0.2%,0.2%,0.1%
+"Wednesday, August 14, 2024",18:00,US,CPI (YoY) (Jul),,2.9%,3.0%,3.0%
+"Thursday, August 15, 2024",18:00,US,Initial Jobless Claims,,227K,236K,234K
+"Thursday, August 22, 2024",18:00,US,Initial Jobless Claims,,232K,232K,228K
+"Thursday, August 29, 2024",18:00,US,Initial Jobless Claims,,231K,232K,233K
+"Friday, August 30, 2024",18:00,US,Core PCE Price Index (MoM) (Jul),,0.2%,0.2%,0.2%
+"Friday, August 30, 2024",18:00,US,Core PCE Price Index (YoY) (Jul),,2.6%,2.7%,2.6%
+"Thursday, September 5, 2024",18:00,US,Initial Jobless Claims,,227K,231K,232K
+"Friday, September 6, 2024",18:00,US,Nonfarm Payrolls (Aug),,142K,164K,144K
+"Friday, September 6, 2024",18:00,US,Unemployment Rate (Aug),,4.2%,4.2%,4.3%
+"Wednesday, September 11, 2024",18:00,US,CPI (MoM) (Aug),,0.2%,0.2%,0.2%
+"Wednesday, September 11, 2024",18:00,US,CPI (YoY) (Aug),,2.5%,2.5%,2.9%
+"Wednesday, September 11, 2024",18:00,US,Core CPI (MoM) (Aug),,0.3%,0.2%,0.2%
+"Thursday, September 12, 2024",18:00,US,Initial Jobless Claims,,230K,227K,228K
+"Wednesday, September 18, 2024",23:30,US,Fed Interest Rate Decision,,5.00%,5.25%,5.50%
+"Thursday, September 19, 2024",18:00,US,Initial Jobless Claims,,219K,230K,231K
+"Thursday, September 26, 2024",18:00,US,Initial Jobless Claims,,218K,224K,222K
+"Friday, September 27, 2024",18:00,US,Core PCE Price Index (MoM) (Aug),,0.1%,0.2%,0.2%
+"Friday, September 27, 2024",18:00,US,Core PCE Price Index (YoY) (Aug),,2.7%,2.7%,2.6%
+"Thursday, October 3, 2024",18:00,US,Initial Jobless Claims,,225K,222K,219K
+"Friday, October 4, 2024",18:00,US,Nonfarm Payrolls (Sep),,254K,147K,78K
+"Friday, October 4, 2024",18:00,US,Unemployment Rate (Sep),,4.1%,4.2%,4.2%
+"Thursday, October 10, 2024",18:00,US,CPI (MoM) (Sep),,0.2%,0.1%,0.2%
+"Thursday, October 10, 2024",18:00,US,Core CPI (MoM) (Sep),,0.3%,0.2%,0.3%
+"Thursday, October 10, 2024",18:00,US,CPI (YoY) (Sep),,2.4%,2.3%,2.5%
+"Thursday, October 10, 2024",18:00,US,Initial Jobless Claims,,258K,231K,225K
+"Thursday, October 17, 2024",18:00,US,Initial Jobless Claims,,241K,241K,260K
+"Thursday, October 24, 2024",18:00,US,Initial Jobless Claims,,227K,243K,242K
+"Thursday, October 31, 2024",18:00,US,Core PCE Price Index (MoM) (Sep),,0.3%,0.3%,0.2%
+"Thursday, October 31, 2024",18:00,US,Core PCE Price Index (YoY) (Sep),,2.7%,2.6%,2.7%
+"Thursday, October 31, 2024",18:00,US,Initial Jobless Claims,,216K,229K,228K
+"Friday, November 1, 2024",18:00,US,Nonfarm Payrolls (Oct),,12K,106K,255K
+"Friday, November 1, 2024",18:00,US,Unemployment Rate (Oct),,4.1%,4.1%,4.1%
+"Thursday, November 7, 2024",19:00,US,Initial Jobless Claims,,221K,223K,218K
+"Friday, November 8, 2024",00:30,US,Fed Interest Rate Decision,,4.75%,4.75%,5.00%
+"Wednesday, November 13, 2024",19:00,US,CPI (YoY) (Oct),,2.6%,2.6%,2.4%
+"Wednesday, November 13, 2024",19:00,US,CPI (MoM) (Oct),,0.2%,0.2%,0.2%
+"Wednesday, November 13, 2024",19:00,US,Core CPI (MoM) (Oct),,0.3%,0.3%,0.3%
+"Thursday, November 14, 2024",19:00,US,Initial Jobless Claims,,217K,224K,221K
+"Thursday, November 21, 2024",19:00,US,Initial Jobless Claims,,213K,220K,219K
+"Wednesday, November 27, 2024",19:00,US,Initial Jobless Claims,,213K,215K,215K
+"Wednesday, November 27, 2024",20:30,US,Core PCE Price Index (MoM) (Oct),,0.3%,0.3%,0.3%
+"Wednesday, November 27, 2024",20:30,US,Core PCE Price Index (YoY) (Oct),,2.8%,2.8%,2.7%
+"Thursday, December 5, 2024",19:00,US,Initial Jobless Claims,,224K,215K,215K
+"Friday, December 6, 2024",19:00,US,Nonfarm Payrolls (Nov),,227K,202K,43K
+"Friday, December 6, 2024",19:00,US,Unemployment Rate (Nov),,4.2%,4.2%,4.1%
+"Wednesday, December 11, 2024",19:00,US,CPI (MoM) (Nov),,0.3%,0.3%,0.2%
+"Wednesday, December 11, 2024",19:00,US,CPI (YoY) (Nov),,2.7%,2.7%,2.6%
+"Wednesday, December 11, 2024",19:00,US,Core CPI (MoM) (Nov),,0.3%,0.3%,0.3%
+"Thursday, December 12, 2024",19:00,US,Initial Jobless Claims,,242K,221K,225K
+"Thursday, December 19, 2024",00:30,US,Fed Interest Rate Decision,,4.50%,4.50%,4.75%
+"Thursday, December 19, 2024",19:00,US,Initial Jobless Claims,,220K,229K,242K
+"Friday, December 20, 2024",19:00,US,Core PCE Price Index (YoY) (Nov),,2.8%,2.9%,2.8%
+"Friday, December 20, 2024",19:00,US,Core PCE Price Index (MoM) (Nov),,0.1%,0.2%,0.3%
+"Thursday, December 26, 2024",19:00,US,Initial Jobless Claims,,219K,223K,220K
+"Thursday, January 2, 2025",19:00,US,Initial Jobless Claims,,211K,222K,220K
+"Wednesday, January 8, 2025",19:00,US,Initial Jobless Claims,,201K,214K,211K
+"Friday, January 10, 2025",19:00,US,Nonfarm Payrolls (Dec),,256K,164K,261K
+"Friday, January 10, 2025",19:00,US,Unemployment Rate (Dec),,4.1%,4.2%,4.2%
+"Wednesday, January 15, 2025",19:00,US,Core CPI (MoM) (Dec),,0.2%,0.3%,0.3%
+"Wednesday, January 15, 2025",19:00,US,CPI (MoM) (Dec),,0.4%,0.4%,0.3%
+"Wednesday, January 15, 2025",19:00,US,CPI (YoY) (Dec),,2.9%,2.9%,2.7%
+"Thursday, January 16, 2025",19:00,US,Initial Jobless Claims,,217K,210K,203K
+"Thursday, January 23, 2025",19:00,US,Initial Jobless Claims,,223K,221K,217K
+"Thursday, January 30, 2025",00:30,US,Fed Interest Rate Decision,,4.50%,4.50%,4.50%
+"Thursday, January 30, 2025",19:00,US,Initial Jobless Claims,,207K,224K,223K
+"Friday, January 31, 2025",19:00,US,Core PCE Price Index (YoY) (Dec),,2.8%,2.8%,2.8%
+"Friday, January 31, 2025",19:00,US,Core PCE Price Index (MoM) (Dec),,0.2%,0.2%,0.1%
+"Thursday, February 6, 2025",19:00,US,Initial Jobless Claims,,219K,214K,208K
+"Friday, February 7, 2025",19:00,US,Nonfarm Payrolls (Jan),,143K,169K,323K
+"Friday, February 7, 2025",19:00,US,Unemployment Rate (Jan),,4.0%,4.1%,4.1%
+"Wednesday, February 12, 2025",19:00,US,CPI (YoY) (Jan),,3.0%,2.9%,2.9%
+"Wednesday, February 12, 2025",19:00,US,Core CPI (MoM) (Jan),,0.4%,0.3%,0.2%
+"Wednesday, February 12, 2025",19:00,US,CPI (MoM) (Jan),,0.5%,0.3%,0.4%
+"Thursday, February 13, 2025",19:00,US,Initial Jobless Claims,,213K,217K,220K
+"Thursday, February 20, 2025",19:00,US,Initial Jobless Claims,,219K,215K,214K
+"Thursday, February 27, 2025",19:00,US,Initial Jobless Claims,,242K,222K,220K
+"Friday, February 28, 2025",19:00,US,Core PCE Price Index (MoM) (Jan),,0.3%,0.3%,0.2%
+"Friday, February 28, 2025",19:00,US,Core PCE Price Index (YoY) (Jan),,2.6%,2.6%,2.9%
+"Thursday, March 6, 2025",19:00,US,Initial Jobless Claims,,221K,234K,242K
+"Friday, March 7, 2025",19:00,US,Nonfarm Payrolls (Feb),,151K,159K,111K
+"Friday, March 7, 2025",19:00,US,Unemployment Rate (Feb),,4.1%,4.0%,4.0%
+"Wednesday, March 12, 2025",18:00,US,CPI (MoM) (Feb),,0.2%,0.3%,0.5%
+"Wednesday, March 12, 2025",18:00,US,Core CPI (MoM) (Feb),,0.2%,0.3%,0.4%
+"Wednesday, March 12, 2025",18:00,US,CPI (YoY) (Feb),,2.8%,2.9%,3.0%
+"Thursday, March 13, 2025",18:00,US,Initial Jobless Claims,,220K,226K,222K
+"Wednesday, March 19, 2025",23:30,US,Fed Interest Rate Decision,,4.50%,4.50%,4.50%
+"Thursday, March 20, 2025",18:00,US,Initial Jobless Claims,,223K,224K,221K
+"Thursday, March 27, 2025",18:00,US,Initial Jobless Claims,,224K,225K,225K
+"Friday, March 28, 2025",18:00,US,Core PCE Price Index (MoM) (Feb),,0.4%,0.3%,0.3%
+"Friday, March 28, 2025",18:00,US,Core PCE Price Index (YoY) (Feb),,2.8%,2.7%,2.7%
+"Thursday, April 3, 2025",18:00,US,Initial Jobless Claims,,219K,225K,225K
+"Friday, April 4, 2025",18:00,US,Nonfarm Payrolls (Mar),,228K,137K,102K
+"Friday, April 4, 2025",18:00,US,Unemployment Rate (Mar),,4.2%,4.1%,4.1%
+"Thursday, April 10, 2025",18:00,US,CPI (MoM) (Mar),,-0.1%,0.1%,0.2%
+"Thursday, April 10, 2025",18:00,US,CPI (YoY) (Mar),,2.4%,2.5%,2.8%
+"Thursday, April 10, 2025",18:00,US,Core CPI (MoM) (Mar),,0.1%,0.3%,0.2%
+"Thursday, April 10, 2025",18:00,US,Initial Jobless Claims,,223K,223K,219K
+"Thursday, April 17, 2025",18:00,US,Initial Jobless Claims,,215K,225K,224K
+"Thursday, April 24, 2025",18:00,US,Initial Jobless Claims,,222K,222K,216K
+"Wednesday, April 30, 2025",19:30,US,Core PCE Price Index (YoY) (Mar),,2.6%,2.6%,3.0%
+"Wednesday, April 30, 2025",19:30,US,Core PCE Price Index (MoM) (Mar),,0.0%,0.1%,0.5%
+"Thursday, May 1, 2025",18:00,US,Initial Jobless Claims,,241K,224K,223K
+"Friday, May 2, 2025",18:00,US,Nonfarm Payrolls (Apr),,177K,138K,120K
+"Friday, May 2, 2025",18:00,US,Unemployment Rate (Apr),,4.2%,4.2%,4.2%
+"Wednesday, May 7, 2025",23:30,US,Fed Interest Rate Decision,,4.50%,4.50%,4.50%
+"Thursday, May 8, 2025",18:00,US,Initial Jobless Claims,,228K,231K,241K
+"Tuesday, May 13, 2025",18:00,US,CPI (MoM) (Apr),,0.2%,0.3%,-0.1%
+"Tuesday, May 13, 2025",18:00,US,Core CPI (MoM) (Apr),,0.2%,0.3%,0.1%
+"Tuesday, May 13, 2025",18:00,US,CPI (YoY) (Apr),,2.3%,2.4%,2.4%
+"Thursday, May 15, 2025",18:00,US,Initial Jobless Claims,,229K,229K,229K
+"Thursday, May 22, 2025",18:00,US,Initial Jobless Claims,,227K,230K,229K
+"Thursday, May 29, 2025",18:00,US,Initial Jobless Claims,,240K,229K,226K
+"Friday, May 30, 2025",18:00,US,Core PCE Price Index (MoM) (Apr),,0.1%,0.1%,0.1%
+"Friday, May 30, 2025",18:00,US,Core PCE Price Index (YoY) (Apr),,2.5%,2.5%,2.7%
+"Thursday, June 5, 2025",18:00,US,Initial Jobless Claims,,247K,236K,239K
+"Friday, June 6, 2025",18:00,US,Nonfarm Payrolls (May),,139K,126K,158K
+"Friday, June 6, 2025",18:00,US,Unemployment Rate (May),,4.2%,4.2%,4.2%
+"Wednesday, June 11, 2025",18:00,US,CPI (MoM) (May),,0.1%,0.2%,0.2%
+"Wednesday, June 11, 2025",18:00,US,CPI (YoY) (May),,2.4%,2.5%,2.3%
+"Wednesday, June 11, 2025",18:00,US,Core CPI (MoM) (May),,0.1%,0.3%,0.2%
+"Thursday, June 12, 2025",18:00,US,Initial Jobless Claims,,248K,242K,248K
+"Wednesday, June 18, 2025",18:00,US,Initial Jobless Claims,,245K,246K,250K
+"Wednesday, June 18, 2025",23:30,US,Fed Interest Rate Decision,,4.50%,4.50%,4.50%
+"Thursday, June 26, 2025",18:00,US,Initial Jobless Claims,,236K,244K,246K
+"Friday, June 27, 2025",18:00,US,Core PCE Price Index (MoM) (May),,0.2%,0.1%,0.1%
+"Friday, June 27, 2025",18:00,US,Core PCE Price Index (YoY) (May),,2.7%,2.6%,2.6%
+"Thursday, July 3, 2025",18:00,US,Nonfarm Payrolls (Jun),,147K,111K,19K
+"Thursday, July 3, 2025",18:00,US,Unemployment Rate (Jun),,4.1%,4.3%,4.2%
+"Thursday, July 3, 2025",18:00,US,Initial Jobless Claims,,233K,240K,237K
+"Thursday, July 10, 2025",18:00,US,Initial Jobless Claims,,227K,236K,232K
+"Tuesday, July 15, 2025",18:00,US,CPI (MoM) (Jun),,0.3%,0.3%,0.1%
+"Tuesday, July 15, 2025",18:00,US,Core CPI (MoM) (Jun),,0.2%,0.3%,0.1%
+"Tuesday, July 15, 2025",18:00,US,CPI (YoY) (Jun),,2.7%,2.6%,2.4%
+"Thursday, July 17, 2025",18:00,US,Initial Jobless Claims,,221K,233K,228K
+"Thursday, July 24, 2025",18:00,US,Initial Jobless Claims,,217K,227K,221K
+"Wednesday, July 30, 2025",23:30,US,Fed Interest Rate Decision,,4.50%,4.50%,4.50%
+"Thursday, July 31, 2025",18:00,US,Core PCE Price Index (MoM) (Jun),,0.3%,0.3%,0.2%
+"Thursday, July 31, 2025",18:00,US,Core PCE Price Index (YoY) (Jun),,2.8%,2.7%,2.8%
+"Thursday, July 31, 2025",18:00,US,Initial Jobless Claims,,218K,222K,217K
+"Friday, August 1, 2025",18:00,US,Nonfarm Payrolls (Jul),,73K,106K,-13K
+"Friday, August 1, 2025",18:00,US,Unemployment Rate (Jul),,4.2%,4.2%,4.1%
+"Thursday, August 7, 2025",18:00,US,Initial Jobless Claims,,226K,221K,219K
+"Tuesday, August 12, 2025",18:00,US,Core CPI (MoM) (Jul),,0.3%,0.3%,0.2%
+"Tuesday, August 12, 2025",18:00,US,CPI (MoM) (Jul),,0.2%,0.2%,0.3%
+"Tuesday, August 12, 2025",18:00,US,CPI (YoY) (Jul),,2.7%,2.8%,2.7%
+"Thursday, August 14, 2025",18:00,US,Initial Jobless Claims,,224K,225K,227K
+"Thursday, August 21, 2025",18:00,US,Initial Jobless Claims,,235K,226K,224K
+"Thursday, August 28, 2025",18:00,US,Initial Jobless Claims,,229K,231K,234K
+"Friday, August 29, 2025",18:00,US,Core PCE Price Index (YoY) (Jul),,2.9%,2.9%,2.8%
+"Friday, August 29, 2025",18:00,US,Core PCE Price Index (MoM) (Jul),,0.3%,0.3%,0.3%
+"Thursday, September 4, 2025",18:00,US,Initial Jobless Claims,,237K,230K,229K
+"Friday, September 5, 2025",18:00,US,Nonfarm Payrolls (Aug),,22K,75K,79K
+"Friday, September 5, 2025",18:00,US,Unemployment Rate (Aug),,4.3%,4.3%,4.2%
+"Thursday, September 11, 2025",18:00,US,Core CPI (MoM) (Aug),,0.3%,0.3%,0.3%
+"Thursday, September 11, 2025",18:00,US,CPI (MoM) (Aug),,0.4%,0.3%,0.2%
+"Thursday, September 11, 2025",18:00,US,CPI (YoY) (Aug),,2.9%,2.9%,2.7%
+"Thursday, September 11, 2025",18:00,US,Initial Jobless Claims,,263K,235K,236K
+"Wednesday, September 17, 2025",23:30,US,Fed Interest Rate Decision,,4.25%,4.25%,4.50%
+"Thursday, September 18, 2025",18:00,US,Initial Jobless Claims,,231K,241K,264K
+"Thursday, September 25, 2025",18:00,US,Initial Jobless Claims,,218K,233K,232K
+"Friday, September 26, 2025",18:00,US,Core PCE Price Index (MoM) (Aug),,0.2%,0.2%,0.2%
+"Friday, September 26, 2025",18:00,US,Core PCE Price Index (YoY) (Aug),,2.9%,2.9%,2.9%
+"Friday, October 24, 2025",18:00,US,CPI (MoM) (Sep),,0.3%,0.4%,0.4%
+"Friday, October 24, 2025",18:00,US,Core CPI (MoM) (Sep),,0.2%,0.3%,0.3%
+"Friday, October 24, 2025",18:00,US,CPI (YoY) (Sep),,3.0%,3.1%,2.9%
+"Wednesday, October 29, 2025",23:30,US,Fed Interest Rate Decision,,4.00%,4.00%,4.25%
+"Tuesday, November 18, 2025",13:40,US,Initial Jobless Claims,,232K,223K,219K
+"Thursday, November 20, 2025",18:54,US,Initial Jobless Claims,,224K,223K,219K
+"Thursday, November 20, 2025",18:55,US,Initial Jobless Claims,,235K,227K,224K
+"Thursday, November 20, 2025",18:56,US,Initial Jobless Claims,,220K,,235K
+"Thursday, November 20, 2025",18:57,US,Initial Jobless Claims,,220K,,232K
+"Thursday, November 20, 2025",18:58,US,Initial Jobless Claims,,229K,,220K
+"Thursday, November 20, 2025",18:59,US,Initial Jobless Claims,,228K,,229K
+"Thursday, November 20, 2025",19:00,US,Nonfarm Payrolls (Sep),,119K,53K,-4K
+"Thursday, November 20, 2025",19:00,US,Unemployment Rate (Sep),,4.4%,4.3%,4.3%
+"Thursday, November 20, 2025",19:00,US,Initial Jobless Claims,,220K,,228K
+"Wednesday, November 26, 2025",19:00,US,Initial Jobless Claims,,216K,226K,222K
+"Thursday, December 4, 2025",19:00,US,Initial Jobless Claims,,191K,219K,218K
+"Friday, December 5, 2025",20:30,US,Core PCE Price Index (MoM) (Sep),,0.2%,0.2%,0.2%
+"Friday, December 5, 2025",20:30,US,Core PCE Price Index (YoY) (Sep),,2.8%,2.9%,2.9%
+"Thursday, December 11, 2025",00:30,US,Fed Interest Rate Decision,,3.75%,3.75%,4.00%
+"Thursday, December 11, 2025",19:00,US,Initial Jobless Claims,,236K,220K,192K
+"Tuesday, December 16, 2025",18:59,US,Nonfarm Payrolls (Oct),,-105K,,108K
+"Tuesday, December 16, 2025",19:00,US,Nonfarm Payrolls (Nov),,64K,51K,-105K
+"Tuesday, December 16, 2025",19:00,US,Unemployment Rate (Nov),,4.6%,4.5%,4.4%
+"Thursday, December 18, 2025",19:00,US,CPI (YoY) (Nov),,2.7%,3.1%,3.0%
+"Thursday, December 18, 2025",19:00,US,Initial Jobless Claims,,224K,224K,237K
+"Wednesday, December 24, 2025",19:00,US,Initial Jobless Claims,,214K,224K,224K
+"Wednesday, December 31, 2025",19:00,US,Initial Jobless Claims,,199K,219K,215K
+"Thursday, January 8, 2026",19:00,US,Initial Jobless Claims,,208K,213K,200K
+"Friday, January 9, 2026",19:00,US,Nonfarm Payrolls (Dec),,50K,66K,56K
+"Friday, January 9, 2026",19:00,US,Unemployment Rate (Dec),,4.4%,4.5%,4.5%
+"Tuesday, January 13, 2026",19:00,US,CPI (MoM) (Dec),,0.3%,0.3%,0.3%
+"Tuesday, January 13, 2026",19:00,US,CPI (YoY) (Dec),,2.7%,2.7%,2.7%
+"Tuesday, January 13, 2026",19:00,US,Core CPI (MoM) (Dec),,0.2%,0.3%,0.2%
+"Thursday, January 15, 2026",19:00,US,Initial Jobless Claims,,198K,215K,207K
+"Thursday, January 22, 2026",19:00,US,Initial Jobless Claims,,200K,209K,199K
+"Thursday, January 22, 2026",20:29,US,Core PCE Price Index (MoM) (Oct),,0.2%,,0.2%
+"Thursday, January 22, 2026",20:29,US,Core PCE Price Index (YoY) (Oct),,2.7%,,2.8%
+"Thursday, January 22, 2026",20:30,US,Core PCE Price Index (MoM) (Nov),,0.2%,0.2%,0.2%
+"Thursday, January 22, 2026",20:30,US,Core PCE Price Index (YoY) (Nov),,2.8%,2.8%,2.7%
+"Thursday, January 29, 2026",00:30,US,Fed Interest Rate Decision,,3.75%,3.75%,3.75%
+"Thursday, January 29, 2026",19:00,US,Initial Jobless Claims,,209K,206K,210K
+"Thursday, February 5, 2026",19:00,US,Initial Jobless Claims,,231K,212K,209K
+"Wednesday, February 11, 2026",19:00,US,Nonfarm Payrolls (Jan),,130K,66K,48K
+"Wednesday, February 11, 2026",19:00,US,Unemployment Rate (Jan),,4.3%,4.4%,4.4%
+"Thursday, February 12, 2026",19:00,US,Initial Jobless Claims,,227K,222K,232K
+"Friday, February 13, 2026",19:00,US,CPI (MoM) (Jan),,0.2%,0.3%,0.3%
+"Friday, February 13, 2026",19:00,US,CPI (YoY) (Jan),,2.4%,2.5%,2.7%
+"Friday, February 13, 2026",19:00,US,Core CPI (MoM) (Jan),,0.3%,0.3%,0.2%
+"Thursday, February 19, 2026",19:00,US,Initial Jobless Claims,,206K,223K,229K
+"Friday, February 20, 2026",19:00,US,Core PCE Price Index (MoM) (Dec),,0.4%,0.3%,0.2%
+"Friday, February 20, 2026",19:00,US,Core PCE Price Index (YoY) (Dec),,3.0%,2.9%,2.8%
+"Thursday, February 26, 2026",19:00,US,Initial Jobless Claims,,212K,217K,208K
+"Thursday, March 5, 2026",19:00,US,Initial Jobless Claims,,213K,215K,213K
+"Friday, March 6, 2026",19:00,US,Nonfarm Payrolls (Feb),,-92K,58K,126K
+"Friday, March 6, 2026",19:00,US,Unemployment Rate (Feb),,4.4%,4.3%,4.3%
+"Wednesday, March 11, 2026",18:00,US,CPI (MoM) (Feb),,0.3%,0.3%,0.2%
+"Wednesday, March 11, 2026",18:00,US,CPI (YoY) (Feb),,2.4%,2.4%,2.4%
+"Wednesday, March 11, 2026",18:00,US,Core CPI (MoM) (Feb),,0.2%,0.2%,0.3%
+"Thursday, March 12, 2026",18:00,US,Initial Jobless Claims,,213K,214K,214K
+"Friday, March 13, 2026",18:00,US,Core PCE Price Index (MoM) (Jan),,0.4%,0.4%,0.4%
+"Friday, March 13, 2026",18:00,US,Core PCE Price Index (YoY) (Jan),,3.1%,3.1%,3.0%
+"Wednesday, March 18, 2026",23:30,US,Fed Interest Rate Decision,,3.75%,3.75%,3.75%
+"Thursday, March 19, 2026",18:00,US,Initial Jobless Claims,,205K,215K,213K
+"Thursday, March 26, 2026",18:00,US,Initial Jobless Claims,,210K,211K,205K
+"Thursday, April 2, 2026",18:00,US,Initial Jobless Claims,,202K,212K,211K
+"Friday, April 3, 2026",18:00,US,Nonfarm Payrolls (Mar),,178K,65K,-133K
+"Friday, April 3, 2026",18:00,US,Unemployment Rate (Mar),,4.3%,4.4%,4.4%
+"Thursday, April 9, 2026",18:00,US,Core PCE Price Index (MoM) (Feb),,0.4%,0.4%,0.4%
+"Thursday, April 9, 2026",18:00,US,Core PCE Price Index (YoY) (Feb),,3.0%,3.0%,3.1%
+"Thursday, April 9, 2026",18:00,US,Initial Jobless Claims,,219K,210K,203K
+"Friday, April 10, 2026",18:00,US,CPI (MoM) (Mar),,0.9%,1.0%,0.3%
+"Friday, April 10, 2026",18:00,US,Core CPI (MoM) (Mar),,0.2%,0.3%,0.2%
+"Friday, April 10, 2026",18:00,US,CPI (YoY) (Mar),,3.3%,3.4%,2.4%
+"Thursday, April 16, 2026",18:00,US,Initial Jobless Claims,,207K,213K,218K
+"Thursday, April 23, 2026",18:00,US,Initial Jobless Claims,,214K,211K,208K
+"Wednesday, April 29, 2026",23:30,US,Fed Interest Rate Decision,,3.75%,3.75%,3.75%
+"Thursday, April 30, 2026",18:00,US,Core PCE Price Index (YoY) (Mar),,3.2%,3.2%,3.0%
+"Thursday, April 30, 2026",18:00,US,Core PCE Price Index (MoM) (Mar),,0.3%,0.3%,0.4%
+"Thursday, April 30, 2026",18:00,US,Initial Jobless Claims,,189K,213K,215K
+"Thursday, May 7, 2026",18:00,US,Initial Jobless Claims,,200K,205K,190K
+"Friday, May 8, 2026",18:00,US,Nonfarm Payrolls (Apr),,115K,65K,185K
+"Friday, May 8, 2026",18:00,US,Unemployment Rate (Apr),,4.3%,4.3%,4.3%
+"Tuesday, May 12, 2026",18:00,US,CPI (MoM) (Apr),,0.6%,0.6%,0.9%
+"Tuesday, May 12, 2026",18:00,US,CPI (YoY) (Apr),,3.8%,3.7%,3.3%
+"Tuesday, May 12, 2026",18:00,US,Core CPI (MoM) (Apr),,0.4%,0.3%,0.2%
+"Thursday, May 14, 2026",18:00,US,Initial Jobless Claims,,211K,205K,199K
+"Thursday, May 21, 2026",18:00,US,Initial Jobless Claims,,209K,210K,212K
+"Thursday, May 28, 2026",18:00,US,Core PCE Price Index (MoM) (Apr),,0.2%,0.3%,0.3%
+"Thursday, May 28, 2026",18:00,US,Core PCE Price Index (YoY) (Apr),,3.3%,3.3%,3.2%
+"Thursday, May 28, 2026",18:00,US,Initial Jobless Claims,,215K,211K,210K
+"Thursday, June 4, 2026",18:00,US,Initial Jobless Claims,,225K,214K,212K
+"Friday, June 5, 2026",18:00,US,Nonfarm Payrolls (May),,172K,85K,179K
+"Friday, June 5, 2026",18:00,US,Unemployment Rate (May),,4.3%,4.3%,4.3%
+"Wednesday, June 10, 2026",18:00,US,CPI (MoM) (May),,0.5%,0.5%,0.6%
+"Wednesday, June 10, 2026",18:00,US,Core CPI (MoM) (May),,0.2%,0.3%,0.4%
+"Wednesday, June 10, 2026",18:00,US,CPI (YoY) (May),,4.2%,4.2%,3.8%
+"Thursday, June 11, 2026",18:00,US,Initial Jobless Claims,,229K,220K,225K
+"Wednesday, June 17, 2026",23:30,US,Fed Interest Rate Decision,,3.75%,3.75%,3.75%
+"Thursday, June 18, 2026",18:00,US,Initial Jobless Claims,,226K,225K,230K
+"Thursday, June 25, 2026",18:00,US,Core PCE Price Index (YoY) (May),,3.4%,3.4%,3.3%
+"Thursday, June 25, 2026",18:00,US,Core PCE Price Index (MoM) (May),,0.3%,0.3%,0.3%
+"Thursday, June 25, 2026",18:00,US,Initial Jobless Claims,,215K,225K,227K
+"Thursday, July 2, 2026",18:00,US,Nonfarm Payrolls (Jun),,57K,114K,129K
+"Thursday, July 2, 2026",18:00,US,Unemployment Rate (Jun),,4.2%,4.3%,4.3%
+"Thursday, July 2, 2026",18:00,US,Initial Jobless Claims,,215K,219K,216K
+"Thursday, July 9, 2026",18:00,US,Initial Jobless Claims,,215K,218K,217K
+"Tuesday, July 14, 2026",18:00,US,CPI (MoM) (Jun),,-0.4%,-0.1%,0.5%
+"Tuesday, July 14, 2026",18:00,US,Core CPI (MoM) (Jun),,0.0%,0.2%,0.2%
+"Tuesday, July 14, 2026",18:00,US,CPI (YoY) (Jun),,3.5%,3.8%,4.2%
+"Thursday, July 16, 2026",18:00,US,Initial Jobless Claims,,208K,216K,216K
+"Thursday, July 23, 2026",18:00,US,Initial Jobless Claims,,187K,211K,209K
+"Wednesday, July 29, 2026",23:30,US,Fed Interest Rate Decision,,3.75%,3.75%,3.75%
+"Thursday, July 30, 2026",18:00,US,Core PCE Price Index (MoM) (Jun),,0.1%,0.2%,0.3%
+"Thursday, July 30, 2026",18:00,US,Core PCE Price Index (YoY) (Jun),,3.3%,3.3%,3.4%
+"Thursday, July 30, 2026",18:00,US,Initial Jobless Claims,,197K,201K,188K
+"Thursday, August 6, 2026",18:00,US,Initial Jobless Claims,,199K,203K,198K
+"Friday, August 7, 2026",18:00,US,Nonfarm Payrolls (Jul),,-23K,85K,20K
+"Friday, August 7, 2026",18:00,US,Unemployment Rate (Jul),,4.1%,4.2%,4.2%
+"Wednesday, August 12, 2026",18:00,US,CPI (YoY) (Jul),,3.4%,3.4%,3.5%
+"Wednesday, August 12, 2026",18:00,US,CPI (MoM) (Jul),,0.1%,0.1%,-0.4%
+"Wednesday, August 12, 2026",18:00,US,Core CPI (MoM) (Jul),,0.2%,0.2%,0.0%
+"Thursday, August 13, 2026",18:00,US,Initial Jobless Claims,,209K,202K,200K
+"Thursday, August 20, 2026",18:00,US,Initial Jobless Claims,,206K,210K,212K
+"Wednesday, August 26, 2026",18:00,US,Core PCE Price Index (YoY) (Jul),,3.3%,3.3%,3.3%
+"Wednesday, August 26, 2026",18:00,US,Core PCE Price Index (MoM) (Jul),,0.2%,0.2%,0.1%
+"Thursday, August 27, 2026",18:00,US,Initial Jobless Claims,,203K,208K,207K
+"Thursday, September 3, 2026",18:00,US,Initial Jobless Claims,,206K,205K,204K
+"Friday, September 4, 2026",18:00,US,Nonfarm Payrolls (Aug),,162K,55K,21K
+"Friday, September 4, 2026",18:00,US,Unemployment Rate (Aug),,4.1%,4.1%,4.1%
+"Thursday, September 10, 2026",18:00,US,Initial Jobless Claims,,206K,205K,207K
+"Friday, September 11, 2026",18:00,US,CPI (MoM) (Aug),,0.4%,0.4%,0.1%
+"Friday, September 11, 2026",18:00,US,CPI (YoY) (Aug),,3.4%,3.4%,3.4%
+"Friday, September 11, 2026",18:00,US,Core CPI (MoM) (Aug),,0.3%,0.2%,0.2%
