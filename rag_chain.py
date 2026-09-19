@@ -55,8 +55,19 @@ def build_rag_chain():
         context = _format_docs(docs)
         prompt_value = PROMPT.invoke({"context": context, "question": query})
         response = llm.invoke(prompt_value)
+
+        # Newer Gemini models return content as a list of blocks, not a plain string
+        content = response.content
+        if isinstance(content, list):
+            result_text = "".join(
+                part.get("text", "") if isinstance(part, dict) else getattr(part, "text", str(part))
+                for part in content
+            )
+        else:
+            result_text = content
+
         return {
-            "result": response.content,
+            "result": result_text,
             "source_documents": docs,
         }
 
