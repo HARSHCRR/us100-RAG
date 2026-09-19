@@ -1,8 +1,8 @@
 # API Keys — NEVER commit this
 .env
 
-# FAISS index (large binary, rebuild locally with vectorstore.py)
-faiss_index/
+# FAISS index (committed so Streamlit Cloud loads it instantly)
+# faiss_index/
 
 # Python
 __pycache__/
