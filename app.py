@@ -123,7 +123,7 @@ with col1:
 if ask_clicked and query.strip():
     chain = get_chain()
     with st.spinner("Retrieving context and generating answer..."):
-        result = chain.invoke({"query": query})
+        result = chain({"query": query})
 
     answer = result["result"]
     source_docs = result["source_documents"]
