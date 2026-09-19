@@ -7,7 +7,7 @@ from langchain.schema import BaseRetriever
 from langchain_core.documents import Document
 from typing import List
 from pydantic import Field
-from vectorstore import load_index
+from vectorstore import get_or_build_index
 
 load_dotenv()
 
@@ -45,7 +45,7 @@ class DateSortedRetriever(BaseRetriever):
 
 
 def build_rag_chain():
-    vectorstore = load_index()
+    vectorstore = get_or_build_index()
     base_retriever = vectorstore.as_retriever(search_kwargs={"k": 100})
     retriever = DateSortedRetriever(base_retriever=base_retriever)
 

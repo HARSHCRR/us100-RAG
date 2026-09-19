@@ -1,9 +1,14 @@
 import os
 import streamlit as st
 from dotenv import load_dotenv
-from rag_chain import build_rag_chain
 
 load_dotenv()
+
+# Support both local (.env) and Streamlit Cloud (st.secrets)
+if "GOOGLE_API_KEY" in st.secrets:
+    os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
+
+from rag_chain import build_rag_chain
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(

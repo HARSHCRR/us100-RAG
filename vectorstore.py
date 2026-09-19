@@ -30,19 +30,11 @@ def load_index():
     print("✅ Index loaded from disk")
     return vectorstore
 
-if __name__ == "__main__":
+def get_or_build_index():
+    """Load index if it exists, otherwise build it. Safe for Streamlit Cloud."""
     if os.path.exists(FAISS_INDEX_PATH):
-        print("Index already exists, loading...")
-        vs = load_index()
+        return load_index()
     else:
-        vs = build_index()
+        print("No index found — building now (first-run, takes ~5 min)...")
+        return build_index()
 
-    # Test a similarity search
-    results = vs.similarity_search("NQ reaction to hot CPI print", k=3)
-    print(f"\nTop 3 results for test query:")
-    for i, doc in enumerate(results):
-        print(f"\n--- Result {i+1} ---")
-        print(f"Date: {doc.metadata['date']}")
-        print(f"Bias: {doc.metadata['overall_bias']}")
-        print(f"CPI Event: {doc.metadata['has_cpi_event']}")
-        print(f"Text preview: {doc.page_content[:150]}...")
